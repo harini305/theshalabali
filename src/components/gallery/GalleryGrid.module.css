@@ -1,0 +1,188 @@
+/* Photo grid. Default: an even grid at the given column count and ratio.
+   Bento: an editorial rhythm of large, wide and tall frames on a 12-column grid. */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.c1 {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.tile {
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+  background: var(--limestone-deep);
+}
+
+.button {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  border: 0;
+  border-radius: inherit;
+  background: none;
+  cursor: zoom-in;
+}
+
+.img {
+  object-fit: cover;
+  transition: transform 1s var(--ease-out);
+}
+
+/* Soft forest wash that lifts on hover so the zoom badge reads. */
+.button::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(27, 48, 39, 0.28), transparent 45%);
+  opacity: 0;
+  transition: opacity var(--dur) var(--ease-out);
+  pointer-events: none;
+}
+
+.zoom {
+  position: absolute;
+  z-index: 1;
+  right: 14px;
+  bottom: 14px;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--ivory);
+  color: var(--forest);
+  opacity: 0;
+  transform: translateY(6px) scale(0.9);
+  transition: opacity var(--dur) var(--ease-out), transform var(--dur) var(--ease-out);
+}
+
+.zoom svg {
+  width: 18px;
+  height: 18px;
+}
+
+.button:hover .img,
+.button:focus-visible .img {
+  transform: scale(1.05);
+}
+
+.button:hover::after,
+.button:focus-visible::after,
+.button:hover .zoom,
+.button:focus-visible .zoom {
+  opacity: 1;
+}
+
+.button:hover .zoom,
+.button:focus-visible .zoom {
+  transform: none;
+}
+
+.button:focus-visible {
+  outline: 2px solid var(--terracotta);
+  outline-offset: -2px;
+}
+
+/* ---------- Bento (mobile: wide lead every third frame, portrait pairs between) ---------- */
+.bento .tile {
+  aspect-ratio: 4 / 5 !important;
+}
+
+.bento .tile:nth-child(3n + 1) {
+  grid-column: span 2;
+  aspect-ratio: 3 / 2 !important;
+}
+
+@media (hover: none) {
+  .zoom {
+    opacity: 0.92;
+    transform: none;
+    width: 36px;
+    height: 36px;
+    right: 10px;
+    bottom: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .grid {
+    gap: 12px;
+  }
+
+  .c2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .c3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .c4 {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+
+  .bento {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    grid-auto-rows: clamp(130px, 13vw, 250px);
+    grid-auto-flow: row dense;
+  }
+
+  .bento .tile,
+  .bento .tile:nth-child(3n + 1) {
+    aspect-ratio: auto !important;
+    grid-column: span 4;
+    grid-row: span 2;
+  }
+
+  /* 8-frame rhythm: large + two stacked, three talls, then wide + large mirrored. */
+  .bento .tile:nth-child(8n + 1) {
+    grid-column: span 7;
+    grid-row: span 2;
+  }
+
+  .bento .tile:nth-child(8n + 2),
+  .bento .tile:nth-child(8n + 3) {
+    grid-column: span 5;
+    grid-row: span 1;
+  }
+
+  .bento .tile:nth-child(8n + 4),
+  .bento .tile:nth-child(8n + 5),
+  .bento .tile:nth-child(8n + 6) {
+    grid-column: span 4;
+    grid-row: span 2;
+  }
+
+  .bento .tile:nth-child(8n + 7) {
+    grid-column: span 5;
+    grid-row: span 2;
+  }
+
+  .bento .tile:nth-child(8n + 8) {
+    grid-column: span 7;
+    grid-row: span 2;
+  }
+
+  /* A lone final frame fills the row instead of leaving a gap. */
+  .bento .tile:last-child:nth-child(8n + 1),
+  .bento .tile:last-child:nth-child(8n + 4) {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (min-width: 1440px) {
+  .grid {
+    gap: 16px;
+  }
+}

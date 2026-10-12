@@ -1,0 +1,702 @@
+{
+ "docHeight": 2580,
+ "docWidth": 1440,
+ "title": "Indian Cafe | theshalabali",
+ "texts": [
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    189,
+    23,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "Mumbai Station",
+   "ff": "wfont_4c89f1_5da941bfee064cff8a72f128ba8fc92f",
+   "fs": "56px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    580,
+    641,
+    280,
+    59
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Indian food spiced with wellness!",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "32.4px",
+   "ls": "0.9px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    579,
+    722,
+    295,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "We serve pure vegetarian dishes made with the best quality ingredients and authentic flavors. Enjoy our favorite recipes",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "0.8px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    311,
+    785,
+    829,
+    52
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Our food is leaning into Sattvic style, light, fresh and perfect for daily consumption AND we always serve delicious con",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "0.8px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    302,
+    874,
+    847,
+    52
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Our specialty",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    240,
+    1258,
+    94,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Ayurvedic Menu",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    576,
+    1262,
+    151,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "How we add extra",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    912,
+    1262,
+    134,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Initially Mumbai Station garden cafe served only Dosa and Masala Chai. Eight years on, we have grown into a welcoming ho",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    240,
+    1319,
+    283,
+    250
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Food packed with Prana, to increase our life force and create balance. Our specially designed Ayurvedic menu provides sa",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    576,
+    1321,
+    284,
+    173
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Mumbai Station produce is thoughtfully sourced and our dishes our made with care & quality, whole ingredients - no hidde",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    912,
+    1321,
+    284,
+    259
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Menu",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "22px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "30.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    661,
+    1671,
+    59,
+    27
+   ]
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "1/7",
+   "ff": "arial",
+   "fs": "12px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "right",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    951,
+    2437,
+    22,
+    14
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    1440,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-luj4gp1x",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    515
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-luj4gp2f",
+   "tag": "section",
+   "r": [
+    0,
+    569,
+    1440,
+    412
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-luj4gp2p",
+   "tag": "section",
+   "r": [
+    0,
+    981,
+    1440,
+    1564
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    2545,
+    1440,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_6af07326a82b4e31b8f69b69059c0579~mv2.jpg",
+   "alt": "TheShalaBali Food-19.jpg",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    773,
+    515
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c756d8553c444ddfbec42e02be3c3938~mv2.png",
+   "alt": "dosa_edited_edited.png",
+   "r": [
+    230,
+    1011,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_4aeb61f37eec4dbfb26be852491109ce~mv2.jpg",
+   "alt": "mumbai_edited.jpg",
+   "r": [
+    566,
+    1011,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_f84ac578fc034a299102e287ec450abc~mv2.jpg",
+   "alt": "efde4ba8-7779-4d2e-9e7a-782caddcf1cf-1_e",
+   "r": [
+    902,
+    1011,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_67c139aaa38f4704b8855ab617692fe0~mv2.jpg",
+   "alt": "",
+   "r": [
+    419,
+    1775,
+    564,
+    686
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    980,
+    1386
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_6af07326a82b4e31b8f69b69059c0579~mv2.jpg",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_67c139aaa38f4704b8855ab617692fe0~mv2.jpg",
+   "r": [
+    419,
+    1775,
+    564,
+    686
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [],
+ "buttons": [
+  {
+   "t": "",
+   "r": [
+    230,
+    1011,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    566,
+    1011,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    902,
+    1011,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    437,
+    2083,
+    45,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    920,
+    2083,
+    45,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "motion": 19,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": 0,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 1680
+ },
+ "url": "https://www.theshalabali.com/mumbaistationindiancafe",
+ "width": 1440,
+ "consoleErrors": []
+}

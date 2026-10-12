@@ -1,0 +1,58 @@
+.words {
+  padding-block: clamp(40px, 5vw, 72px);
+  border-block: 1px solid var(--line);
+}
+
+.wordList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px 0;
+  list-style: none;
+}
+
+.wordList li {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 300;
+  font-variation-settings: 'opsz' 48, 'SOFT' 100;
+  font-size: clamp(1.15rem, 1rem + 0.6vw, 1.6rem);
+  line-height: 1.3;
+  color: var(--ink);
+}
+
+.wordList li + li::before {
+  content: '';
+  width: 5px;
+  height: 5px;
+  margin-inline: clamp(14px, 2vw, 28px);
+  border-radius: 50%;
+  background: var(--terracotta);
+}
+
+.journey {
+  padding-block: var(--section-y);
+  background: var(--limestone);
+}
+
+.meals {
+  margin-top: clamp(32px, 4vw, 56px);
+  align-items: start;
+}
+
+
+.text {
+  max-width: 54ch;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+.spices {
+  padding-block: var(--section-y);
+}
+
+.spicesMedia {
+  border-radius: var(--radius-lg);
+}

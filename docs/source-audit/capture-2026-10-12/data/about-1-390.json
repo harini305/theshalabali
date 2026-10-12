@@ -1,0 +1,2077 @@
+{
+ "docHeight": 4695,
+ "docWidth": 320,
+ "title": "Rooms & facilities | theshalabali",
+ "texts": [
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "About Us",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "32px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    114,
+    114,
+    93,
+    40
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Finding Inspiration in Every Turn",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    76,
+    164,
+    169,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "This is your About Page. This space is a great opportunity to give a full background on who you are, what you do and wha",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    24,
+    220,
+    271,
+    222
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Our Story",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "29px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    117,
+    748,
+    86,
+    36
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Every website has a story, and your visitors want to hear yours. This space is a great opportunity to give a full backgr",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    22,
+    860,
+    275,
+    481
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Meet The Team",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "29px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    98,
+    1396,
+    124,
+    36
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Don Francis",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "19px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    1782,
+    67,
+    24
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Founder & CEO",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    1855,
+    114,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Ashley Jones",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "19px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    2257,
+    67,
+    24
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Tech Lead",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    2330,
+    73,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Tess Brown",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "19px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    2732,
+    62,
+    24
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Office Manager",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    2805,
+    112,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Lisa Rose",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "19px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    3207,
+    53,
+    24
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Product Manager",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    3280,
+    127,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Kevin Nye",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "19px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    3682,
+    59,
+    24
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "HR Lead",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    3755,
+    62,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Alex Young",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "19px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    4157,
+    65,
+    24
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Customer Support Lead",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    20,
+    4230,
+    169,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Our Clients",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "27px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    115,
+    4324,
+    91,
+    34
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    320,
+    50
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzrsr",
+   "tag": "section",
+   "r": [
+    0,
+    50,
+    320,
+    436
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lakkb5ka",
+   "tag": "section",
+   "r": [
+    0,
+    50,
+    320,
+    436
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    50,
+    320,
+    436
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrsr1",
+   "tag": "section",
+   "r": [
+    0,
+    486,
+    320,
+    200
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lakkb5kr",
+   "tag": "section",
+   "r": [
+    0,
+    486,
+    320,
+    200
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    486,
+    320,
+    200
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrsr2",
+   "tag": "section",
+   "r": [
+    0,
+    686,
+    320,
+    700
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lakkb5kx",
+   "tag": "section",
+   "r": [
+    0,
+    686,
+    320,
+    690
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    686,
+    320,
+    690
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrss",
+   "tag": "section",
+   "r": [
+    0,
+    1386,
+    320,
+    2894
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lakkb5la",
+   "tag": "section",
+   "r": [
+    0,
+    1386,
+    320,
+    84
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    1386,
+    320,
+    84
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrss1",
+   "tag": "section",
+   "r": [
+    0,
+    4280,
+    320,
+    349
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lakkb5ml",
+   "tag": "section",
+   "r": [
+    0,
+    4280,
+    320,
+    349
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    4280,
+    320,
+    349
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    4629,
+    320,
+    66
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_20122b9a32cc4e9a9faca835b9f82d14~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    486,
+    320,
+    200
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    320,
+    200
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_ea643fa0bec04606b8e22e51e7d510b4~mv2.jpg",
+   "alt": "",
+   "r": [
+    20,
+    1500,
+    280,
+    272
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    280,
+    272
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "r": [
+    20,
+    1826,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+   "alt": "Twitter",
+   "r": [
+    44,
+    1826,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+   "alt": "LinkedIn",
+   "r": [
+    68,
+    1826,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_d272d21cf9724e17be9e01ffe7173b88~mv2.jpg",
+   "alt": "",
+   "r": [
+    20,
+    1975,
+    280,
+    272
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "r": [
+    20,
+    2301,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+   "alt": "Twitter",
+   "r": [
+    44,
+    2301,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+   "alt": "LinkedIn",
+   "r": [
+    68,
+    2301,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_91dc165103f9438bbc9a0216b278a11d~mv2.jpg",
+   "alt": "",
+   "r": [
+    20,
+    2450,
+    280,
+    272
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "r": [
+    20,
+    2776,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+   "alt": "Twitter",
+   "r": [
+    44,
+    2776,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+   "alt": "LinkedIn",
+   "r": [
+    68,
+    2776,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_0225bd316b414eb88d3358ba488bde5e~mv2.jpg",
+   "alt": "",
+   "r": [
+    20,
+    2925,
+    280,
+    272
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "r": [
+    20,
+    3251,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+   "alt": "Twitter",
+   "r": [
+    44,
+    3251,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+   "alt": "LinkedIn",
+   "r": [
+    68,
+    3251,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_52445da233db4ab6ba88eab5b99650de~mv2.jpg",
+   "alt": "",
+   "r": [
+    20,
+    3400,
+    280,
+    272
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "r": [
+    20,
+    3726,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+   "alt": "Twitter",
+   "r": [
+    44,
+    3726,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+   "alt": "LinkedIn",
+   "r": [
+    68,
+    3726,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_2f3667a1cdf7440090d33d9145f6ba02~mv2.jpg",
+   "alt": "",
+   "r": [
+    20,
+    3875,
+    280,
+    272
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Facebook",
+   "r": [
+    20,
+    4201,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/c7d035ba85f6486680c2facedecdcf4d.png",
+   "alt": "Twitter",
+   "r": [
+    44,
+    4201,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/6ea5b4a88f0b4f91945b40499aa0af00.png",
+   "alt": "LinkedIn",
+   "r": [
+    68,
+    4201,
+    19,
+    19
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    19,
+    19
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_1c21a3cd7c0947ce88d31a8eef96503a~mv2.png",
+   "alt": "",
+   "r": [
+    27,
+    4416,
+    70,
+    70
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_18f1357650bc445092f511e9ca9ed710~mv2.png",
+   "alt": "",
+   "r": [
+    125,
+    4416,
+    70,
+    70
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_55e9a7e84ab5470e851e20135735b170~mv2.png",
+   "alt": "",
+   "r": [
+    223,
+    4416,
+    70,
+    70
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_8f40ef988e774bf68d7d402bbe334e8e~mv2.png",
+   "alt": "",
+   "r": [
+    81,
+    4520,
+    70,
+    70
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_a701bcdd2cf641deba1dbf0dbe6c5487~mv2.png",
+   "alt": "",
+   "r": [
+    170,
+    4520,
+    70,
+    70
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/a3c153_20122b9a32cc4e9a9faca835b9f82d14~mv2.jpg",
+   "r": [
+    0,
+    486,
+    320,
+    200
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [
+  {
+   "src": "about:blank",
+   "title": "Chat widget",
+   "r": [
+    249,
+    624,
+    55,
+    52
+   ]
+  },
+  {
+   "src": "about:blank",
+   "title": "Chat widget",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "buttons": [
+  {
+   "t": "",
+   "r": [
+    255,
+    0,
+    50,
+    50
+   ],
+   "bg": "rgba(255, 255, 255, 0)",
+   "border": "1px solid rgba(144, 144, 144, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    20,
+    1500,
+    280,
+    272
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/wix",
+   "r": [
+    20,
+    1826,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.twitter.com/wix",
+   "r": [
+    44,
+    1826,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.linkedin.com/company/wix-com",
+   "r": [
+    68,
+    1826,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    20,
+    1975,
+    280,
+    272
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/wix",
+   "r": [
+    20,
+    2301,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.twitter.com/wix",
+   "r": [
+    44,
+    2301,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.linkedin.com/company/wix-com",
+   "r": [
+    68,
+    2301,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    20,
+    2450,
+    280,
+    272
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/wix",
+   "r": [
+    20,
+    2776,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.twitter.com/wix",
+   "r": [
+    44,
+    2776,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.linkedin.com/company/wix-com",
+   "r": [
+    68,
+    2776,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    20,
+    2925,
+    280,
+    272
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/wix",
+   "r": [
+    20,
+    3251,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.twitter.com/wix",
+   "r": [
+    44,
+    3251,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.linkedin.com/company/wix-com",
+   "r": [
+    68,
+    3251,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    20,
+    3400,
+    280,
+    272
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/wix",
+   "r": [
+    20,
+    3726,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.twitter.com/wix",
+   "r": [
+    44,
+    3726,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.linkedin.com/company/wix-com",
+   "r": [
+    68,
+    3726,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    20,
+    3875,
+    280,
+    272
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/wix",
+   "r": [
+    20,
+    4201,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.twitter.com/wix",
+   "r": [
+    44,
+    4201,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.linkedin.com/company/wix-com",
+   "r": [
+    68,
+    4201,
+    19,
+    19
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    27,
+    4416,
+    70,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    125,
+    4416,
+    70,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    223,
+    4416,
+    70,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    81,
+    4520,
+    70,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    170,
+    4520,
+    70,
+    70
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    16,
+    627,
+    50,
+    50
+   ],
+   "bg": "rgba(255, 255, 255, 0.3)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "50%",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "BungalowsDeluxe RoomsMaster Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Recipes",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Recipes",
+   "href": "https://www.theshalabali.com/recipes",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "motion": 45,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": 0,
+  "height": 50,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 4002
+ },
+ "url": "https://www.theshalabali.com/about-1",
+ "width": 390,
+ "consoleErrors": []
+}

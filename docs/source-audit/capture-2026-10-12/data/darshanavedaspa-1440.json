@@ -1,0 +1,2446 @@
+{
+ "docHeight": 3608,
+ "docWidth": 1440,
+ "title": "Darshana Veda Spa | theshalabali",
+ "texts": [
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "HOME",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    372,
+    -45,
+    63,
+    40
+   ],
+   "href": "https://www.theshalabali.com"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Retreat Packages",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    449,
+    -45,
+    137,
+    40
+   ],
+   "href": "https://www.theshalabali.com/retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Host a retreat",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    600,
+    -45,
+    112,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Panchakarma Retreats",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    726,
+    -45,
+    169,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(1, 177, 175)",
+   "td": "none",
+   "r": [
+    908,
+    -45,
+    150,
+    40
+   ],
+   "href": "https://www.theshalabali.com/darshanavedaspa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Indian Cafe",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1071,
+    -45,
+    97,
+    40
+   ],
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Accommodation",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1181,
+    -45,
+    127,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Experiences",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1321,
+    -45,
+    101,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-services"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    189,
+    -31,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "44px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    605,
+    614,
+    239,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Open daily 9:30am - 8pm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    638,
+    673,
+    166,
+    18
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Our ethos",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "30.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    443,
+    801,
+    97,
+    27
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "At Darshana Veda Spa, we honor mother nature and her ability to renew and restore.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    287,
+    862,
+    408,
+    49
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "By harnessing the soothing energy of Bali, we aspire to transport all our guests into a state of harmony in the present ",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    270,
+    948,
+    444,
+    78
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "We operate on the principle that everything needed to heal the physical body can be found in our natural environment.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    266,
+    1063,
+    451,
+    49
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Our authentic treatments and lovingly made natural products are testament to our commitment for preserving the ancient h",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    270,
+    1150,
+    442,
+    106
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "We invite you to find your peace amid verdant nature, flickering candles and the trickle of flowing water",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    297,
+    1294,
+    389,
+    49
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "BOOK NOW",
+   "ff": "wfont_800ab1_b88350c0e3864dac8c1bad5e013e0966",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "0.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 177, 175)",
+   "td": "none",
+   "r": [
+    328,
+    1382,
+    93,
+    19
+   ],
+   "href": "https://wa.me/6281236325617"
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "+62 8123 632 5617",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(1, 177, 175)",
+   "td": "none",
+   "r": [
+    428,
+    1382,
+    145,
+    21
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Darshan ; Vision of the Divine  Veda ; Sacred Knowledge",
+   "ff": "wfont_4c89f1_5da941bfee064cff8a72f128ba8fc92f",
+   "fs": "29px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "52.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    737,
+    1456,
+    466,
+    30
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Spa Menu",
+   "ff": "wfont_4c89f1_5da941bfee064cff8a72f128ba8fc92f",
+   "fs": "44px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    644,
+    1652,
+    152,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "At one with nature",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    740,
+    2636,
+    143,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "Earth & skin friendly ingredients",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    88,
+    2640,
+    229,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "Ayurveda",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    414,
+    2640,
+    85,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "Signature Bali massage & beauty",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1066,
+    2640,
+    237,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "\"Lose yourself in nature\" - and find peace... Ralph Waldo Emerson. One of the most powerful healing elements of our holi",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    740,
+    2698,
+    282,
+    104
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "A",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    88,
+    2703,
+    281,
+    78
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "ll our ingredients are mother earth friendly superfoods for the skin! Carefully chosen for their robust healing capabili",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    88,
+    2704,
+    281,
+    76
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Experience the ancient art of Indian healing, balance and relaxation.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    414,
+    2704,
+    278,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Embody the peace and gentleness that is Bali with our signature Balinese massage",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    1066,
+    2704,
+    258,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "or t",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1066,
+    2733,
+    275,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "reat yourself to one of our facials, mani pedi's and body wraps to make your skin glow and spirit sparkle.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    1066,
+    2762,
+    259,
+    76
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Ayurvedic therapies are deeply rooted in Indian culture. The natural alternative to create harmony and prevent illness. ",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    414,
+    2788,
+    277,
+    108
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Luxurious homemade creams & gels to nourish and hydrate, cold pressed massage oils, deliciously fragrant scented powders",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    88,
+    2805,
+    281,
+    116
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "in relationship to ones environment.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    414,
+    2900,
+    228,
+    18
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "BOOK NOW",
+   "ff": "wfont_800ab1_b88350c0e3864dac8c1bad5e013e0966",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "0.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(24, 193, 192)",
+   "td": "none",
+   "r": [
+    428,
+    2980,
+    93,
+    19
+   ],
+   "href": "https://wa.me/6281236325617"
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "+62 8123 632 5617",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "23.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    549,
+    2981,
+    140,
+    21
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Contact Us",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "40px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "56px",
+   "ls": "4px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    346,
+    3118,
+    242,
+    51
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_4c89f1_5da941bfee064cff8a72f128ba8fc92f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    381,
+    3183,
+    176,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "OPEN DAILY 9",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    379,
+    3222,
+    94,
+    18
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": ":30",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    473,
+    3222,
+    20,
+    18
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "am - 8pm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    493,
+    3222,
+    62,
+    18
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Jalan Sanggingan No. 90,",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    312,
+    3264,
+    310,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Kedewatan, Ubud 80571",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    312,
+    3286,
+    310,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Bali - Indonesia",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    312,
+    3309,
+    310,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "+62",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    312,
+    3353,
+    310,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "8123 632 5617",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    433,
+    3354,
+    97,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Email",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    443,
+    3422,
+    41,
+    22
+   ],
+   "href": "mailto:manager4retreat@gmail.com?subject=Inquiry"
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    -54,
+    1440,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzrt4",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    520
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kre4qc6c",
+   "tag": "section",
+   "r": [
+    10,
+    54,
+    1420,
+    520
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    10,
+    54,
+    1420,
+    520
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrt41",
+   "tag": "section",
+   "r": [
+    0,
+    574,
+    1440,
+    1001
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrt42",
+   "tag": "section",
+   "r": [
+    0,
+    1575,
+    1440,
+    1998
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kre4qc76",
+   "tag": "section",
+   "r": [
+    10,
+    1575,
+    1420,
+    749
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    10,
+    1575,
+    1420,
+    749
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lanc158r",
+   "tag": "section",
+   "r": [
+    0,
+    3053,
+    1440,
+    520
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    3053,
+    1440,
+    520
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    3573,
+    1440,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c99f7f4b32994620be04ce96a38cbd57~mv2.jpg",
+   "alt": "spa beds.jpg",
+   "r": [
+    10,
+    0,
+    1420,
+    900
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    1420,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_1eb0901338a440e997b122e0f65dde00~mv2.png",
+   "alt": "",
+   "r": [
+    247,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_2dedc563b456415c8e759bda02cd44c2~mv2.jpg",
+   "alt": "Spa journey_edited.jpg",
+   "r": [
+    848,
+    1728,
+    787,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    787,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_05cb8091d392497fa3a6909cb41de63a~mv2.png",
+   "alt": "",
+   "r": [
+    1645,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c3fa0e5369094fdeb212c570dd7b4c7b~mv2.jpg",
+   "alt": "Scrub powders.jpg",
+   "r": [
+    2246,
+    1728,
+    787,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    786,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_28db924036c3480c9ef53f6eebbe9076~mv2.png",
+   "alt": "",
+   "r": [
+    3043,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8a2b354ae514497ebba2ee1df37f3bc5~mv2.jpg",
+   "alt": "",
+   "r": [
+    3644,
+    1728,
+    295,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    295,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_74d1431e50e1407fa38a3edd83753d5a~mv2.jpg",
+   "alt": "",
+   "r": [
+    3949,
+    1728,
+    295,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    295,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_516be2daf3d540f690e955a031158292~mv2.png",
+   "alt": "",
+   "r": [
+    4254,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_7e5504818bbd48adb4c2b5e9847920b2~mv2.png",
+   "alt": "",
+   "r": [
+    4855,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_f857d5216908438f8f5ea7fa625a8a7c~mv2.jpg",
+   "alt": "Kati basti hot stone.jpg",
+   "r": [
+    5456,
+    1728,
+    787,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    786,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_7fa8a9e928ec4931a70728b0f43f63c1~mv2.png",
+   "alt": "",
+   "r": [
+    6253,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_72b871b3835f4bd9b477d0490757050f~mv2.jpg",
+   "alt": "",
+   "r": [
+    6854,
+    1728,
+    295,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    295,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_868bd93e094c449f8085c55b6dc94f2e~mv2.jpg",
+   "alt": "Facial closeup.jpg",
+   "r": [
+    7159,
+    1728,
+    787,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    786,
+    442
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_1e5d65615ebb4bb3b96f5c83f65832f1~mv2.png",
+   "alt": "",
+   "r": [
+    7956,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_d69c989b6bf447a8882536bbaf866ca0~mv2.png",
+   "alt": "",
+   "r": [
+    8557,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_b7065da1f13c43de9bed8e4e21ccd209~mv2.jpg",
+   "alt": "massage.jpg",
+   "r": [
+    9158,
+    1728,
+    665,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    664,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_de4376139e81411faf4a886beebd9ed5~mv2.png",
+   "alt": "",
+   "r": [
+    9833,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_2fc23dbb15e841e68a0104a571114231~mv2.png",
+   "alt": "",
+   "r": [
+    10434,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_62b4426e12f4404a8087a3e670e49e19~mv2.png",
+   "alt": "",
+   "r": [
+    11035,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_bfd4c51805124a6986fa298ff1a9f0fd~mv2.png",
+   "alt": "",
+   "r": [
+    11636,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_215bb21556714808a864ae73bc676527~mv2.jpg",
+   "alt": "",
+   "r": [
+    12237,
+    1728,
+    665,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    664,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_4e5311b5c11448b9b7610e1cc2ad68df~mv2.png",
+   "alt": "",
+   "r": [
+    12912,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_02c5734c96004065bb109fe46e3d4f8e~mv2.png",
+   "alt": "",
+   "r": [
+    13513,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_75f09adea41646e487acecb0324e5f49~mv2.png",
+   "alt": "",
+   "r": [
+    14114,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_d18a33af3cc14642b9ca2d0e3647d93f~mv2.png",
+   "alt": "",
+   "r": [
+    14715,
+    1728,
+    591,
+    443
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    590,
+    443
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_94797e16a5424ceea27e30e2a1ffea6b~mv2.jpg",
+   "alt": "Spa powders.jpg",
+   "r": [
+    78,
+    2389,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_f7193a855426487886e782417ce03c74~mv2.png",
+   "alt": "unnamed.png",
+   "r": [
+    404,
+    2389,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_23cb67e82a6e4537922eaa9188119304~mv2.jpg",
+   "alt": "Tea spa outside.jpg",
+   "r": [
+    730,
+    2389,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_b7065da1f13c43de9bed8e4e21ccd209~mv2.jpg",
+   "alt": "massage.jpg",
+   "r": [
+    1056,
+    2389,
+    306,
+    226
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    306,
+    226
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/0fdef751204647a3bbd7eaa2827ed4f9.png",
+   "alt": "Black Facebook Icon",
+   "r": [
+    410,
+    3484,
+    29,
+    29
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    29,
+    29
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/05546d0902004bfabba0396e21f33f7d.png",
+   "alt": "Black Google+ Icon",
+   "r": [
+    448,
+    3484,
+    29,
+    29
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    29,
+    29
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/04b15d1b030049d1b3746f8ef5a72955.png",
+   "alt": "Black Instagram Icon",
+   "r": [
+    486,
+    3484,
+    29,
+    29
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    29,
+    29
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c99f7f4b32994620be04ce96a38cbd57~mv2.jpg",
+   "r": [
+    10,
+    0,
+    1420,
+    900
+   ]
+  }
+ ],
+ "videos": [
+  {
+   "src": "https://video.wixstatic.com/video/4c89f1_0670203e92e144c3aced8ac62b587137/720p/mp4/file.mp4",
+   "poster": "",
+   "r": [
+    784,
+    842,
+    416,
+    535
+   ],
+   "autoplay": true,
+   "loop": true,
+   "muted": true
+  }
+ ],
+ "iframes": [
+  {
+   "src": "https://static.parastorage.com/services/editor-elements-library/dist/thunderbolt/media/googleMap.f3347ff6.html?defaultLocation=2&showZoom=true&showMapType=true&language=en&region=US&id=dataItem-lanc15",
+   "title": "Google Maps",
+   "r": [
+    701,
+    3116,
+    445,
+    321
+   ]
+  }
+ ],
+ "buttons": [
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    -45,
+    77,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    -45,
+    151,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    -45,
+    126,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    -45,
+    182,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    -45,
+    163,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    -45,
+    110,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Accommodation",
+   "r": [
+    1176,
+    -45,
+    140,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1316,
+    -45,
+    24,
+    24
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    -45,
+    114,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "BOOK NOW",
+   "href": "https://wa.me/6281236325617",
+   "r": [
+    298,
+    1372,
+    153,
+    40
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "1px solid rgb(236, 236, 236)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1149,
+    1930,
+    23,
+    39
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    78,
+    2389,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    404,
+    2389,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    730,
+    2389,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1056,
+    2389,
+    306,
+    226
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "BOOK NOW",
+   "href": "https://wa.me/6281236325617",
+   "r": [
+    398,
+    2970,
+    153,
+    40
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "1px solid rgb(236, 236, 236)",
+   "radius": "10px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Email",
+   "href": "mailto:manager4retreat@gmail.com?subject=Inquiry",
+   "r": [
+    392,
+    3413,
+    142,
+    40
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(91, 179, 100)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "c": "rgb(113, 112, 112)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/darshanavedaspa/",
+   "r": [
+    410,
+    3484,
+    29,
+    29
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    448,
+    3484,
+    29,
+    29
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.instagram.com/darshanavedaspa/?hl=en",
+   "r": [
+    486,
+    3484,
+    29,
+    29
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    367,
+    -45,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    -45,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    444,
+    -45,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    -45,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    595,
+    -45,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    -45,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    721,
+    -45,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    -45,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    903,
+    -45,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    -45,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    1066,
+    -45,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    -45,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    -45,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    -45,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    1316,
+    -45,
+    114,
+    40
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    -45,
+    114,
+    40
+   ]
+  }
+ ],
+ "motion": 34,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": -54,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 2708
+ },
+ "url": "https://www.theshalabali.com/darshanavedaspa",
+ "width": 1440,
+ "consoleErrors": []
+}

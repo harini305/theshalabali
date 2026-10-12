@@ -1,0 +1,49 @@
+.journeys {
+  padding-block: var(--section-y);
+  background: var(--limestone);
+}
+
+.journeyHead {
+  max-width: 780px;
+}
+
+.packages {
+  display: grid;
+  grid-template-columns: repeat(6, minmax(0, 1fr));
+  gap: clamp(40px, 3vw, 48px) clamp(20px, 2.4vw, 32px);
+  margin-top: clamp(32px, 4vw, 48px);
+  padding-top: clamp(32px, 4vw, 48px);
+  border-top: 1px solid var(--line-strong);
+  align-items: stretch;
+}
+
+
+
+/* 5 packages: three across, then two wider cards, so no row is left half-empty */
+.packages > * {
+  grid-column: span 2;
+}
+
+.packages > :nth-last-child(2):nth-child(3n + 1),
+.packages > :last-child:nth-child(3n + 2) {
+  grid-column: span 3;
+}
+
+@media (max-width: 1023px) {
+  .packages > *,
+  .packages > :nth-last-child(2):nth-child(3n + 1),
+  .packages > :last-child:nth-child(3n + 2) {
+    grid-column: span 3;
+  }
+
+  .packages > :last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 640px) {
+  .packages > *,
+  .packages > :last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+  }
+}

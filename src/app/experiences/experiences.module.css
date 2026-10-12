@@ -1,0 +1,117 @@
+.section {
+  padding-block: var(--section-y);
+}
+
+/* Aligned editorial grid: equal tops, one image ratio, text aligned under each image */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(40px, 4vw, 56px) clamp(20px, 2vw, 28px);
+  margin: 0 auto;
+  list-style: none;
+  align-items: start;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 0;
+}
+
+.media {
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  z-index: 2;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--ivory);
+  color: var(--forest);
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: var(--fs-caption);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.body {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 16px;
+  row-gap: 10px;
+  align-items: baseline;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+}
+
+.num {
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: var(--fs-caption);
+  letter-spacing: 0.12em;
+  color: var(--terracotta-text);
+}
+
+.title {
+  font-size: var(--fs-h4);
+  line-height: 1.15;
+}
+
+.text {
+  grid-column: 2;
+  color: var(--muted);
+  font-size: var(--fs-small);
+  line-height: 1.65;
+}
+
+@media (max-width: 1023px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 639px) {
+  .grid {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+}
+
+/* Final orphan item: image spans two columns, text sits in the third, tops aligned */
+.wide {
+  grid-column: 1 / -1;
+}
+
+@media (min-width: 1024px) {
+  .wide {
+    display: grid;
+    grid-template-columns: subgrid;
+    align-items: start;
+  }
+
+  .wide .media {
+    grid-column: span 2;
+  }
+
+  .wide .body {
+    padding-top: 0;
+    border-top: 0;
+  }
+}
+
+@media (min-width: 640px) and (max-width: 1023px) {
+  .wide .media > figure {
+    aspect-ratio: 2 / 1 !important;
+  }
+}
+
+@media (max-width: 639px) {
+  .wide .media > figure {
+    aspect-ratio: 4 / 3 !important;
+  }
+}

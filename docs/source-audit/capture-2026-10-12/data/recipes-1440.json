@@ -1,0 +1,815 @@
+{
+ "docHeight": 900,
+ "docWidth": 1440,
+ "title": "Recipes (All) | theshalabali",
+ "texts": [
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "HOME",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    372,
+    9,
+    63,
+    40
+   ],
+   "href": "https://www.theshalabali.com"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Retreat Packages",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    449,
+    9,
+    137,
+    40
+   ],
+   "href": "https://www.theshalabali.com/retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Host a retreat",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    600,
+    9,
+    112,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Panchakarma Retreats",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    726,
+    9,
+    169,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    908,
+    9,
+    150,
+    40
+   ],
+   "href": "https://www.theshalabali.com/darshanavedaspa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Indian Cafe",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1071,
+    9,
+    97,
+    40
+   ],
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Accommodation",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1181,
+    9,
+    127,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Experiences",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1321,
+    9,
+    101,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-services"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    189,
+    23,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "Recipes",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "56px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    664,
+    138,
+    113,
+    70
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    1440,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzruf",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    326
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kv078dy3",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    226
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    54,
+    1440,
+    226
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kv078dzu",
+   "tag": "section",
+   "r": [
+    0,
+    280,
+    1440,
+    100
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    280,
+    1440,
+    100
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    554,
+    1440,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [],
+ "bgImages": [],
+ "videos": [],
+ "iframes": [],
+ "buttons": [
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Accommodation",
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1316,
+    9,
+    24,
+    24
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ]
+  }
+ ],
+ "motion": 14,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": 0,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 0
+ },
+ "url": "https://www.theshalabali.com/recipes",
+ "width": 1440,
+ "consoleErrors": []
+}

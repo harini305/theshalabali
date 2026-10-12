@@ -1,0 +1,251 @@
+{
+ "r0": {
+  "c": {
+   "motion-fadeIn": 2
+  },
+  "ex": [
+   {
+    "id": "WRchTxt12-155k",
+    "anim": "motion-fadeIn",
+    "dur": "1.8s",
+    "delay": "0.001s",
+    "ease": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+    "fill": "backwards",
+    "txt": "Yoga Retreat & Ayurvedic Spa",
+    "top": 22
+   },
+   {
+    "id": "DrpDwnMn0-if",
+    "anim": "motion-fadeIn",
+    "dur": "1.8s",
+    "delay": "0.001s",
+    "ease": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+    "fill": "backwards",
+    "txt": "HOME\n\nRetreat Packages\n\nHost a retreat\n\n",
+    "top": 9
+   }
+  ]
+ },
+ "later": [
+  {
+   "y": 300,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 700,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 1100,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 1500,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 1900,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 2300,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 2700,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 3100,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 3500,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 3900,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 4300,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 4700,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 5100,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 5500,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 5900,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 6300,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 6700,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 7100,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 7500,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 7900,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 8300,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 8700,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 9100,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 9500,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 9900,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 10300,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 10700,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 11100,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  },
+  {
+   "y": 11500,
+   "c": {
+    "motion-fadeIn": 2
+   },
+   "ex": []
+  }
+ ],
+ "trans": [
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all"
+ ]
+}

@@ -1,0 +1,39 @@
+.section {
+  padding: var(--section-y) 0;
+}
+
+.sand {
+  background: var(--limestone);
+}
+
+.ivory {
+  background: var(--ivory);
+}
+
+.grid {
+  margin-top: clamp(32px, 4vw, 56px);
+}
+
+/* Brochure line: a quiet closing row between hairlines */
+.brochure {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px 40px;
+  margin-top: clamp(40px, 5vw, 64px);
+  padding-top: clamp(28px, 3vw, 40px);
+  border-top: 1px solid var(--line-strong);
+}
+
+.brochure p {
+  max-width: 34ch;
+  text-wrap: balance;
+}
+
+@media (max-width: 560px) {
+  .brochure {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

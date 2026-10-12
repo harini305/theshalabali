@@ -1,0 +1,150 @@
+/* FAQ list on native <details>. Large Fraunces questions between hairlines, a circular +/− that turns,
+   and a height animation via ::details-content + interpolate-size where supported (others open instantly
+   with a gentle fade of the answer). */
+.list {
+  border-top: 1px solid var(--line-strong);
+}
+
+.item {
+  border-bottom: 1px solid var(--line);
+  interpolate-size: allow-keywords;
+}
+
+.q {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: clamp(16px, 3vw, 40px);
+  min-height: 76px;
+  padding: clamp(20px, 2.2vw, 28px) 0;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 72, 'SOFT' 50;
+  font-size: clamp(1.25rem, 1.05rem + 0.8vw, 1.85rem);
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  cursor: pointer;
+  list-style: none;
+  transition: color var(--dur-fast);
+}
+
+.q::-webkit-details-marker {
+  display: none;
+}
+
+.q::marker {
+  content: '';
+}
+
+.q > span {
+  text-wrap: pretty;
+}
+
+.q:hover,
+.item[open] > .q {
+  color: var(--forest);
+}
+
+.q:focus-visible {
+  outline: 2px solid var(--terracotta);
+  outline-offset: 4px;
+}
+
+.icon {
+  flex: 0 0 auto;
+  box-sizing: border-box;
+  width: 44px;
+  height: 44px;
+  padding: 14px;
+  border: 1px solid var(--line-strong);
+  border-radius: 50%;
+  color: var(--ink);
+  transition: transform var(--dur) var(--ease-out), background-color var(--dur) var(--ease-out), border-color var(--dur) var(--ease-out), color var(--dur) var(--ease-out);
+}
+
+.q:hover .icon {
+  border-color: var(--forest);
+}
+
+.iconV {
+  transform-box: fill-box;
+  transform-origin: 50% 50%;
+  transition: transform var(--dur) var(--ease-out), opacity var(--dur-fast);
+}
+
+/* + turns a half circle and settles as − */
+.item[open] .icon {
+  transform: rotate(180deg);
+  border-color: var(--forest);
+  background: var(--forest);
+  color: var(--on-dark);
+}
+
+.item[open] .iconV {
+  transform: scaleY(0);
+  opacity: 0;
+}
+
+.a {
+  max-width: 68ch;
+  padding: 0 calc(44px + clamp(16px, 3vw, 40px)) clamp(26px, 3vw, 36px) 0;
+  font-size: var(--fs-body);
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+.a > * + * {
+  margin-top: 0.9em;
+}
+
+.a a {
+  color: var(--terracotta-text);
+  text-underline-offset: 0.22em;
+}
+
+.a ul,
+.a ol {
+  padding-left: 1.2em;
+}
+
+.a li::marker {
+  color: var(--terracotta);
+}
+
+/* Fallback: fade the answer in */
+.item[open] .a {
+  animation: acc-fade 0.6s var(--ease-out);
+}
+
+@keyframes acc-fade {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+}
+
+/* Smooth height where ::details-content is supported */
+@supports selector(::details-content) {
+  .item::details-content {
+    block-size: 0;
+    overflow: hidden;
+    transition: block-size 0.6s var(--ease-out), content-visibility 0.6s allow-discrete;
+  }
+
+  .item[open]::details-content {
+    block-size: auto;
+  }
+}
+
+@media (max-width: 560px) {
+  .a {
+    padding-right: 0;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .item[open] .a {
+    animation: none;
+  }
+}

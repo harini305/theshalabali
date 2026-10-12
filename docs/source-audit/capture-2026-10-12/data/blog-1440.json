@@ -1,0 +1,4146 @@
+{
+ "docHeight": 7985,
+ "docWidth": 1440,
+ "title": "BLOG | Ubud | The Shala Bali",
+ "texts": [
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "BLOG",
+   "ff": "americantypwrteritcw01--731025",
+   "fs": "168px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "-1.68px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    277,
+    -197,
+    568,
+    193
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "The Shala Bali",
+   "ff": "belinda-w00-regular",
+   "fs": "32px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    845,
+    -85,
+    179,
+    52
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "HOME",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    372,
+    -45,
+    63,
+    40
+   ],
+   "href": "https://www.theshalabali.com"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Retreat Packages",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    449,
+    -45,
+    137,
+    40
+   ],
+   "href": "https://www.theshalabali.com/retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Host a retreat",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    600,
+    -45,
+    112,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Panchakarma Retreats",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    726,
+    -45,
+    169,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    908,
+    -45,
+    150,
+    40
+   ],
+   "href": "https://www.theshalabali.com/darshanavedaspa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Indian Cafe",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1071,
+    -45,
+    97,
+    40
+   ],
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Accommodation",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1181,
+    -45,
+    127,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Experiences",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1321,
+    -45,
+    101,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-services"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    189,
+    -31,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "h6",
+   "t": "Featured Posts",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "28px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "39.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    959,
+    182,
+    117,
+    35
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Is Your Asana Practice Authentic?",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    309,
+    220,
+    56
+   ],
+   "href": "https://www.theshalabali.com/single-post/2019/01/21/is-your-asana-practice-authentic"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Type of Yoga",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1179,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2019/01/07/type-of-yoga"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "KALI A MOST MISUNDERSTOOD GODDESS",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1399,
+    309,
+    220,
+    84
+   ],
+   "href": "https://www.theshalabali.com/single-post/2018/09/25/kali-a-most-misunderstood-goddess"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Rice Goddess, Shri Devi - Dewi Sri",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1619,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2018/01/26/rice-goddess-shri-devi-dewi-sri"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Tri Hita Karana",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1839,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2017/10/01/tri-hita-karana"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Balinese Names",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    2059,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2017/09/15/balinese-names"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Offering in Bali",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    2279,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2017/06/23/offering-in-bali"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Campuhan Ridge walk in Ubud",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    2499,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2017/06/16/campuhan-ridge-walk-in-ubud"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Life Cycle of Rice Paddies",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    2719,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2017/05/04/life-cycle-of-rice-paddies"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Make a dragonfruit smoothie bowl",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    2939,
+    309,
+    220,
+    28
+   ],
+   "href": "https://www.theshalabali.com/single-post/2013/05/01/this-is-the-title-of-your-first-image-post"
+  },
+  {
+   "tag": "span",
+   "ctx": "h6",
+   "t": "Recent Posts",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "28px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "39.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    959,
+    488,
+    98,
+    35
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "16 Fruits You Should Grill This Weekend + 4 Tips For Making Them Taste Great",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    509,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/07/14/16-fruits-you-should-grill-this-weekend-4-tips-for-making-them-taste-great"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "16 Fruits You Should Grill This Weekend + 4 Tips For Making Them Taste Great",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    563,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/07/14/16-fruits-you-should-grill-this-weekend-4-tips-for-making-them-taste-great"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "For many people, summer cooking is synonymous with firing up the grill. And while you probably are used to reaching for ",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    615,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "5 Reasons To Consider A Regular Meditation Practice Right Now, From Light Watkins",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    668,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/06/30/5-reasons-to-consider-a-regular-meditation-practice-right-now-from-light-watkins"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "5 WAYS TO HAVE A HEALTHIER RELATIONSHIP WITH SOCIAL MEDIA",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    779,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/06/22/5-ways-to-have-a-healthier-relationship-with-social-media"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Understanding the 5 Subdoshas of Vata",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    882,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/05/26/understanding-the-5-subdoshas-of-vata"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Meeting Grief with Mindfulness: How Embracing Pain Opens the Door to Joy",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    985,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/05/12/meeting-grief-with-mindfulness-how-embracing-pain-opens-the-door-to-joy"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Don’t Try to Become the Best, Be Your Best Right Now",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    1090,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/04/28/don-t-try-to-become-the-best-be-your-best-right-now"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "It’s More Important to Be Authentic Than Impressive",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    1210,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/04/14/it-s-more-important-to-be-authentic-than-impressive"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "5 Reasons To Consider A Regular Meditation Practice Right Now, From Light Watkins",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    1300,
+    622,
+    143
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/06/30/5-reasons-to-consider-a-regular-meditation-practice-right-now-from-light-watkins"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Finding the Courage to Go After What You Want Out of Life",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    1317,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/03/31/finding-the-courage-to-go-after-what-you-want-out-of-life"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "What to Do If You Want More Purpose, Passion, and Meaning",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    1424,
+    144,
+    67
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/03/17/what-to-do-if-you-want-more-purpose-passion-and-meaning"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "The fight to end systemic racism is by no means an easy feat. It requires emotional labor, constant education, and untan",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    1454,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "7 Ways To Start To Value Yourself",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1023,
+    1538,
+    144,
+    45
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/03/03/7-ways-to-start-to-value-yourself"
+  },
+  {
+   "tag": "span",
+   "ctx": "h6",
+   "t": "Archive",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "28px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "39.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    959,
+    1645,
+    65,
+    35
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "July 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1690,
+    93,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/07"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(1)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1036,
+    1693,
+    16,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/07"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "June 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1714,
+    102,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/06"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1043,
+    1717,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/06"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "May 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1738,
+    96,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/05"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1037,
+    1741,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/05"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "April 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1762,
+    100,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/04"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1040,
+    1765,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/04"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "March 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1786,
+    112,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/03"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1053,
+    1789,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/03"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "February 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1810,
+    131,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/02"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1071,
+    1813,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/02"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "January 2020",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1834,
+    125,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/01"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1066,
+    1837,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2020/01"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "December 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1858,
+    140,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/12"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1081,
+    1861,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/12"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "November 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1882,
+    142,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/11"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1082,
+    1885,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/11"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "October 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1906,
+    122,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1063,
+    1909,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "September 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1930,
+    142,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/09"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1083,
+    1933,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/09"
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "5 WAYS TO HAVE A HEALTHIER RELATIONSHIP WITH SOCIAL MEDIA",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    1947,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/06/22/5-ways-to-have-a-healthier-relationship-with-social-media"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "August 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1954,
+    115,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/08"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1056,
+    1957,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/08"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "July 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    1978,
+    93,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/07"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1034,
+    1981,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/07"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "June 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2002,
+    99,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/06"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1040,
+    2005,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/06"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "May 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2026,
+    93,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/05"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1034,
+    2029,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/05"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "April 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2050,
+    97,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/04"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "We’ve all heard that social media can take a toll on our mental health, and I’m sure you’ve felt the effects of it too. ",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    2053,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1038,
+    2053,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/04"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "March 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2074,
+    110,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/03"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1050,
+    2077,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/03"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "February 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2098,
+    128,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/02"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1069,
+    2101,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/02"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "January 2019",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2122,
+    123,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/01"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(4)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1063,
+    2125,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2019/01"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "December 2018",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2146,
+    140,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/12"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1081,
+    2149,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/12"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "November 2018",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2170,
+    142,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/11"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1083,
+    2173,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/11"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "October 2018",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2194,
+    122,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1063,
+    2197,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "September 2018",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2218,
+    142,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/09"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1083,
+    2221,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/09"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "February 2018",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2242,
+    128,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/02"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1069,
+    2245,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/02"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "January 2018",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2266,
+    122,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/01"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1063,
+    2269,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2018/01"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "December 2017",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2290,
+    139,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/12"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1080,
+    2293,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/12"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "October 2017",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2314,
+    119,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(1)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1062,
+    2317,
+    16,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "September 2017",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2338,
+    139,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/09"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(1)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1082,
+    2341,
+    16,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/09"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "July 2017",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2362,
+    90,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/07"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(1)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1033,
+    2365,
+    16,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/07"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "June 2017",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2386,
+    98,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/06"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(3)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1039,
+    2389,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/06"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "May 2017",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2410,
+    93,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/05"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(4)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1033,
+    2413,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2017/05"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "October 2016",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    959,
+    2434,
+    122,
+    24
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2016/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "(2)",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1063,
+    2437,
+    18,
+    17
+   ],
+   "href": "https://www.theshalabali.com/blog/archive/2016/10"
+  },
+  {
+   "tag": "span",
+   "ctx": "h6",
+   "t": "Search By Tags",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "28px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "39.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    959,
+    2479,
+    119,
+    35
+   ]
+  },
+  {
+   "tag": "li",
+   "ctx": "li",
+   "t": "No tags yet.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    971,
+    2552,
+    98,
+    18
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Understanding the 5 Subdoshas of Vata",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    2557,
+    622,
+    48
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/05/26/understanding-the-5-subdoshas-of-vata"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "One of the fundamental principles of Ayurveda is that there are three different dosha (mind-body) characteristics and th",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    2616,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h6",
+   "t": "Follow Us",
+   "ff": "wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6",
+   "fs": "28px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "39.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    959,
+    2628,
+    85,
+    35
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Meeting Grief with Mindfulness: How Embracing Pain Opens the Door to Joy",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    3244,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/05/12/meeting-grief-with-mindfulness-how-embracing-pain-opens-the-door-to-joy"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "“We shake with joy, we shake with grief.  What a time they have, these two housed as they are in the same body.” ~Mary O",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    3350,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Don’t Try to Become the Best, Be Your Best Right Now",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    4202,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/04/28/don-t-try-to-become-the-best-be-your-best-right-now"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "“Do the best you can, from where you are, with what you have, now.” ~African-American proverb When I first started on my",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    4308,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "It’s More Important to Be Authentic Than Impressive",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    4937,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/04/14/it-s-more-important-to-be-authentic-than-impressive"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "“The most fundamental harm we can do to ourselves is to remain ignorant by not having the courage to look at ourselves h",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    5043,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "Finding the Courage to Go After What You Want Out of Life",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    5672,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/03/31/finding-the-courage-to-go-after-what-you-want-out-of-life"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "“Just because you’re not doing what other people are doing, that doesn’t mean you’re failing or falling behind. You’re c",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    5778,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "What to Do If You Want More Purpose, Passion, and Meaning",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    6516,
+    622,
+    95
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/03/17/what-to-do-if-you-want-more-purpose-passion-and-meaning"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "“I don’t believe people are looking for the meaning of life as much as they are looking for the experience of being aliv",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    6622,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "h2",
+   "ctx": "h2",
+   "t": "7 Ways To Start To Value Yourself",
+   "ff": "raleway",
+   "fs": "34px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "47.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    283,
+    7641,
+    622,
+    48
+   ],
+   "href": "https://www.theshalabali.com/single-post/2020/03/03/7-ways-to-start-to-value-yourself"
+  },
+  {
+   "tag": "div",
+   "ctx": "",
+   "t": "“You can search throughout the entire universe for someone who is more deserving of your love and affection than you are",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    283,
+    7700,
+    622,
+    48
+   ]
+  },
+  {
+   "tag": "button",
+   "ctx": "button",
+   "t": "1",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(91, 179, 100)",
+   "td": "none",
+   "r": [
+    492,
+    7884,
+    36,
+    36
+   ]
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "2",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    534,
+    7884,
+    36,
+    36
+   ],
+   "href": "https://www.theshalabali.com/blog/page/2"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "3",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    576,
+    7884,
+    36,
+    36
+   ],
+   "href": "https://www.theshalabali.com/blog/page/3"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "4",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    618,
+    7884,
+    36,
+    36
+   ],
+   "href": "https://www.theshalabali.com/blog/page/4"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "5",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    660,
+    7884,
+    36,
+    36
+   ],
+   "href": "https://www.theshalabali.com/blog/page/5"
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    -54,
+    1440,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzrt2",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    7896
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-jugihctr",
+   "tag": "section",
+   "r": [
+    0,
+    -803,
+    1440,
+    562
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    -803,
+    1440,
+    562
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    7950,
+    1440,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_778fac54c048423d9ecc09bc967b3d8b.jpg",
+   "alt": "",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "fit": "cover",
+   "op": "50% 0%",
+   "nat": [
+    576,
+    360
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_40c96ca2f7a04e10870e6c55deb63fdd~mv2_d_4240_2832_s_4_2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    -803,
+    1440,
+    562
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    841,
+    562
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_21ba49d6d992447480ce9dc62b4ca607~mv2.jpg",
+   "alt": "16 Fruits You Should Grill This Weekend + 4 Tips For Making Them Taste Great",
+   "r": [
+    259,
+    78,
+    670,
+    402
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    402
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_6dfada4d30d2426996fc6ddb61c2cfb2~mv2.jpg",
+   "alt": "5 Reasons To Consider A Regular Meditation Practice Right Now, From Light Watkins",
+   "r": [
+    259,
+    768,
+    670,
+    503
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    503
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_e38a291bcc044e56a4dc856ea08484dc~mv2.jpg",
+   "alt": "5 WAYS TO HAVE A HEALTHIER RELATIONSHIP WITH SOCIAL MEDIA",
+   "r": [
+    259,
+    1559,
+    670,
+    359
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    359
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_3fcb8eb0a6e04d1baaf4fc06eb378fe7~mv2.jpg",
+   "alt": "Understanding the 5 Subdoshas of Vata",
+   "r": [
+    259,
+    2206,
+    670,
+    322
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    322
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_14ea37cc89464145835168a31eef1c88~mv2.jpg",
+   "alt": "Meeting Grief with Mindfulness: How Embracing Pain Opens the Door to Joy",
+   "r": [
+    259,
+    2816,
+    670,
+    399
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    399
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_edfd0004fbf64bb3b8c953cfa85628c1~mv2.jpg",
+   "alt": "Don’t Try to Become the Best, Be Your Best Right Now",
+   "r": [
+    259,
+    3503,
+    670,
+    670
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    570,
+    570
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_01c0e071291043379df7f9b2497918e5~mv2.jpg",
+   "alt": "It’s More Important to Be Authentic Than Impressive",
+   "r": [
+    259,
+    4461,
+    670,
+    447
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    640,
+    427
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_88b5032d50014abea10d49e8188ad221~mv2.png",
+   "alt": "Finding the Courage to Go After What You Want Out of Life",
+   "r": [
+    259,
+    5196,
+    670,
+    447
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    640,
+    427
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_cdf1b1d261b5499084e28da80fb475a1~mv2.jpg",
+   "alt": "What to Do If You Want More Purpose, Passion, and Meaning",
+   "r": [
+    259,
+    5931,
+    670,
+    556
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    556
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_1d2a768d8b05497bb966177f13b4c8ce~mv2.jpg",
+   "alt": "7 Ways To Start To Value Yourself",
+   "r": [
+    259,
+    6775,
+    670,
+    837
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    670,
+    837
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_a10ca08a890340b8964bc41a003db193.jpg",
+   "alt": "Is Your Asana Practice Authentic?",
+   "r": [
+    959,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8a2a4c25b8384c10a6c6b24f16952384~mv2_d_1200_1200_s_2.jpg",
+   "alt": "Type of Yoga",
+   "r": [
+    1179,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_73c26950931c48bd9c491edd9099550e~mv2.jpg",
+   "alt": "KALI A MOST MISUNDERSTOOD GODDESS",
+   "r": [
+    1399,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_4aa41e48149047d6a4b66ac6dec7157c~mv2.jpg",
+   "alt": "Rice Goddess, Shri Devi - Dewi Sri",
+   "r": [
+    1619,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c3b271f719554a5b963a2eff8a61f76b~mv2_d_4240_2832_s_4_2.jpg",
+   "alt": "Tri Hita Karana",
+   "r": [
+    1839,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_f800621c5ef94d138aab72981ecd4d82~mv2_d_4240_2832_s_4_2.jpg",
+   "alt": "Balinese Names",
+   "r": [
+    2059,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_21019140caa443ec90464fccceba4b33~mv2_d_2831_3342_s_4_2.jpg",
+   "alt": "Offering in Bali",
+   "r": [
+    2279,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_5825c108857f47e0a1830c7f8c3bedaf~mv2_d_4240_2832_s_4_2.jpg",
+   "alt": "Campuhan Ridge walk in Ubud",
+   "r": [
+    2499,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_4e59116d501c435e9dd9ff8fc87ffca4~mv2_d_4240_2832_s_4_2.jpg",
+   "alt": "Life Cycle of Rice Paddies",
+   "r": [
+    2719,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    220,
+    123
+   ]
+  },
+  {
+   "src": "https://img.youtube.com/vi/XHbMT0nfNQA/mqdefault.jpg",
+   "alt": "Make a dragonfruit smoothie bowl",
+   "r": [
+    2939,
+    170,
+    220,
+    123
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    160,
+    90
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_21ba49d6d992447480ce9dc62b4ca607~mv2.jpg",
+   "alt": "16 Fruits You Should Grill This Weekend + 4 Tips For Making Them Taste Great",
+   "r": [
+    972,
+    564,
+    38,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_6dfada4d30d2426996fc6ddb61c2cfb2~mv2.jpg",
+   "alt": "5 Reasons To Consider A Regular Meditation Practice Right Now, From Light Watkins",
+   "r": [
+    972,
+    669,
+    38,
+    29
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    29
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_e38a291bcc044e56a4dc856ea08484dc~mv2.jpg",
+   "alt": "5 WAYS TO HAVE A HEALTHIER RELATIONSHIP WITH SOCIAL MEDIA",
+   "r": [
+    972,
+    780,
+    38,
+    21
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    21
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_3fcb8eb0a6e04d1baaf4fc06eb378fe7~mv2.jpg",
+   "alt": "Understanding the 5 Subdoshas of Vata",
+   "r": [
+    972,
+    883,
+    38,
+    21
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    21
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_14ea37cc89464145835168a31eef1c88~mv2.jpg",
+   "alt": "Meeting Grief with Mindfulness: How Embracing Pain Opens the Door to Joy",
+   "r": [
+    972,
+    986,
+    38,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_edfd0004fbf64bb3b8c953cfa85628c1~mv2.jpg",
+   "alt": "Don’t Try to Become the Best, Be Your Best Right Now",
+   "r": [
+    972,
+    1091,
+    38,
+    38
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    38
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_01c0e071291043379df7f9b2497918e5~mv2.jpg",
+   "alt": "It’s More Important to Be Authentic Than Impressive",
+   "r": [
+    972,
+    1211,
+    38,
+    25
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    25
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_88b5032d50014abea10d49e8188ad221~mv2.png",
+   "alt": "Finding the Courage to Go After What You Want Out of Life",
+   "r": [
+    972,
+    1318,
+    38,
+    25
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    25
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_cdf1b1d261b5499084e28da80fb475a1~mv2.jpg",
+   "alt": "What to Do If You Want More Purpose, Passion, and Meaning",
+   "r": [
+    972,
+    1425,
+    38,
+    32
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    32
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_1d2a768d8b05497bb966177f13b4c8ce~mv2.jpg",
+   "alt": "7 Ways To Start To Value Yourself",
+   "r": [
+    972,
+    1539,
+    38,
+    47
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    38,
+    47
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/e0678ef25486466ba65ef6ad47b559e1.png",
+   "alt": "Facebook - White Circle",
+   "r": [
+    977,
+    2691,
+    23,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    23,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/da7ef6dd1302486c9a67baebe4b364bc.png",
+   "alt": "Instagram - White Circle",
+   "r": [
+    1007,
+    2691,
+    23,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    23,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/e9bb463a1bc4434c9d33b81b1fe937f5.png",
+   "alt": "YouTube - White Circle",
+   "r": [
+    1037,
+    2691,
+    23,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    23,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/52b5a40f3b0c4b6c9423b71489ba1bb0.png",
+   "alt": "TripAdvisor - White Circle",
+   "r": [
+    1067,
+    2691,
+    23,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    23,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/767689ba34f143a1a36e49b5f2fbe31a.png",
+   "alt": "Pinterest - White Circle",
+   "r": [
+    1097,
+    2691,
+    23,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    23,
+    23
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/d8dc0a23fbd84f41a68ac2b74e86398a.png",
+   "alt": "Blogger - White Circle",
+   "r": [
+    1127,
+    2691,
+    23,
+    23
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    23,
+    23
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_778fac54c048423d9ecc09bc967b3d8b.jpg",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_40c96ca2f7a04e10870e6c55deb63fdd~mv2_d_4240_2832_s_4_2.jpg",
+   "r": [
+    0,
+    -803,
+    1440,
+    562
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [],
+ "buttons": [
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    -45,
+    77,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    -45,
+    151,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    -45,
+    126,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    -45,
+    182,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    -45,
+    163,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    -45,
+    110,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Accommodation",
+   "r": [
+    1176,
+    -45,
+    140,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1316,
+    -45,
+    24,
+    24
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    -45,
+    114,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    408,
+    7884,
+    36,
+    36
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(74, 74, 74)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(74, 74, 74)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    450,
+    7884,
+    36,
+    36
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(74, 74, 74)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(74, 74, 74)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "1",
+   "r": [
+    492,
+    7884,
+    36,
+    36
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(91, 179, 100)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "museo-slab-w01-100",
+   "fs": "16px",
+   "fw": "400",
+   "c": "rgb(91, 179, 100)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1138,
+    216,
+    18,
+    31
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.facebook.com/yogaretreatsandtrainingsubud/?fref=ts",
+   "r": [
+    977,
+    2691,
+    23,
+    23
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.instagram.com/theshalabali/",
+   "r": [
+    1007,
+    2691,
+    23,
+    23
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://vimeo.com/182361958",
+   "r": [
+    1037,
+    2691,
+    23,
+    23
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.tripadvisor.com/Hotel_Review-g297701-d10542029-Reviews-The_Shala_Bali-Ubud_Bali.html",
+   "r": [
+    1067,
+    2691,
+    23,
+    23
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://fr.pinterest.com/theshalabali/",
+   "r": [
+    1097,
+    2691,
+    23,
+    23
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1127,
+    2691,
+    23,
+    23
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    367,
+    -45,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    -45,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    444,
+    -45,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    -45,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    595,
+    -45,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    -45,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    721,
+    -45,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    -45,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    903,
+    -45,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    -45,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    1066,
+    -45,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    -45,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    -45,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    -45,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    1316,
+    -45,
+    114,
+    40
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    -45,
+    114,
+    40
+   ]
+  }
+ ],
+ "motion": 12,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": -54,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 7085
+ },
+ "url": "https://www.theshalabali.com/blog",
+ "width": 1440,
+ "consoleErrors": []
+}

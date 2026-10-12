@@ -1,0 +1,167 @@
+.btn {
+  --b-bg: var(--forest);
+  --b-fg: var(--on-dark);
+  --b-border: var(--forest);
+  --b-badge: var(--terracotta);
+  --b-badge-fg: var(--white);
+  --b-hover-bg: var(--forest-2);
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  gap: 14px;
+  min-height: 56px;
+  padding: 6px 6px 6px 26px;
+  border: 1px solid var(--b-border);
+  border-radius: 999px;
+  background: var(--b-bg);
+  color: var(--b-fg);
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 0.9375rem;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color var(--dur) var(--ease-out), color var(--dur) var(--ease-out), border-color var(--dur) var(--ease-out);
+}
+
+.noArrow {
+  padding: 6px 26px;
+}
+
+.label {
+  position: relative;
+}
+
+.arrow {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  flex: none;
+  border-radius: 50%;
+  background: var(--b-badge);
+  color: var(--b-badge-fg);
+  overflow: hidden;
+  transition: transform var(--dur) var(--ease-out), background-color var(--dur);
+}
+
+.arrow svg {
+  grid-area: 1 / 1;
+  transition: transform 0.55s var(--ease-out);
+}
+
+.arrow svg + svg {
+  transform: translateX(-180%);
+}
+
+.btn:hover,
+.btn:focus-visible {
+  background: var(--b-hover-bg);
+}
+
+.btn:hover .arrow svg,
+.btn:focus-visible .arrow svg {
+  transform: translateX(180%);
+}
+
+.btn:hover .arrow svg + svg,
+.btn:focus-visible .arrow svg + svg {
+  transform: translateX(0);
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+/* Variants */
+.accent {
+  --b-bg: var(--terracotta);
+  --b-border: var(--terracotta);
+  --b-fg: var(--white);
+  --b-badge: var(--white);
+  --b-badge-fg: var(--terracotta-text);
+  --b-hover-bg: #a65f43;
+}
+
+.light {
+  --b-bg: var(--ivory);
+  --b-border: var(--ivory);
+  --b-fg: var(--forest);
+  --b-badge: var(--forest);
+  --b-badge-fg: var(--ivory);
+  --b-hover-bg: var(--white);
+}
+
+.outline {
+  --b-bg: transparent;
+  --b-border: var(--line-strong);
+  --b-fg: var(--ink);
+  --b-badge: var(--forest);
+  --b-badge-fg: var(--ivory);
+  --b-hover-bg: rgba(35, 61, 50, 0.06);
+}
+
+.outline:hover,
+.outline:focus-visible {
+  border-color: var(--forest);
+}
+
+.ghostLight {
+  --b-bg: rgba(247, 244, 236, 0.04);
+  --b-border: rgba(247, 244, 236, 0.45);
+  --b-fg: var(--on-dark);
+  --b-badge: var(--ivory);
+  --b-badge-fg: var(--forest);
+  --b-hover-bg: rgba(247, 244, 236, 0.14);
+  backdrop-filter: blur(6px);
+}
+
+.text {
+  --b-bg: transparent;
+  --b-border: transparent;
+  --b-fg: currentColor;
+  --b-badge: transparent;
+  --b-badge-fg: currentColor;
+  --b-hover-bg: transparent;
+  min-height: 44px;
+  padding: 0;
+  gap: 6px;
+  border: 0;
+  border-radius: 0;
+}
+
+.text .label {
+  background: linear-gradient(currentColor, currentColor) 0 100% / 100% 1px no-repeat;
+  padding-bottom: 2px;
+  transition: background-size var(--dur) var(--ease-out);
+}
+
+.text:hover .label {
+  background-size: 0 1px;
+  background-position: 100% 100%;
+}
+
+.text .arrow {
+  width: 28px;
+  height: 28px;
+  border: 1px solid currentColor;
+}
+
+@media (max-width: 480px) {
+  .btn {
+    min-height: 52px;
+    padding-left: 22px;
+    font-size: 0.9rem;
+  }
+
+  .arrow {
+    width: 40px;
+    height: 40px;
+  }
+
+  .text {
+    padding: 0;
+  }
+}

@@ -1,0 +1,3128 @@
+{
+ "docHeight": 11568,
+ "docWidth": 1200,
+ "title": "Bungalows | theshalabali",
+ "texts": [
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "HOME",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    142,
+    9,
+    63,
+    40
+   ],
+   "href": "https://www.theshalabali.com"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Retreat Packages",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    219,
+    9,
+    137,
+    40
+   ],
+   "href": "https://www.theshalabali.com/retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Host a retreat",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    370,
+    9,
+    112,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Panchakarma Retreats",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    496,
+    9,
+    169,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    678,
+    9,
+    150,
+    40
+   ],
+   "href": "https://www.theshalabali.com/darshanavedaspa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Indian Cafe",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    841,
+    9,
+    97,
+    40
+   ],
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Accommodation",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    951,
+    9,
+    127,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Experiences",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1091,
+    9,
+    101,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-services"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    -41,
+    23,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "Bungalows",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "55px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "55px",
+   "ls": "23.2925px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    324,
+    706,
+    355,
+    58
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Relax in rustic elegance. Our four bungalows are built from 100% recycled Javanese wood are a perfect hideaway. Each hav",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    162,
+    783,
+    647,
+    78
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Darshana Bungalows",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    57,
+    957,
+    291,
+    38
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Free WiFi",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1014,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Suite 24 sqm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    1014,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "King or twin bed set up",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1036,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Terrace 16 sqm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    1036,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "High-end mattresses​ with toppers",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1059,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Max. capacity: 2",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    1059,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Our three traditional Darshana Bungalows are each enclosed in their own lush and fully private garden. With natural wood",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    57,
+    1062,
+    310,
+    90
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Rain shower",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1081,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "​",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    756,
+    1081,
+    199,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Air-conditioning",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1103,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Cotton mosquito nets",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1126,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Ceiling fan",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1148,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Safe for valuables",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1171,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Ensuite bathroom",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1193,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Mini fridge",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1215,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Natural bath amenities",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1238,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Book",
+   "ff": "wfont_f73cef_e9c5d2d287754888b8969f4884dedf3e",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "0.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(12, 68, 38)",
+   "td": "none",
+   "r": [
+    109,
+    1248,
+    37,
+    19
+   ],
+   "href": "mailto:theshalabali@gmail.com?subject=Reservation Darshana Bungalow"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Tea making facility",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    1260,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Darshana Deluxe Bungalow",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    57,
+    1973,
+    235,
+    80
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Free WiFi",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2072,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Suite 24 sqm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    2072,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "King or twin bed set up",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2094,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Terrace 16 sqm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    2094,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "High-end mattresses​ with toppers",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2117,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Max. capacity: 2",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    2117,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Our three traditional Darshana Bungalows are each enclosed in their own lush and fully private garden. With natural wood",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    57,
+    2120,
+    310,
+    90
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Rain shower",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2139,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "​",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    756,
+    2139,
+    199,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Air-conditioning",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2161,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Cotton mosquito nets",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2184,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Ceiling fan",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2206,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Safe for valuables",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2229,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Ensuite bathroom",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2251,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Mini fridge",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2273,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Natural bath amenities",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2296,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Book",
+   "ff": "wfont_f73cef_e9c5d2d287754888b8969f4884dedf3e",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "0.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(12, 68, 38)",
+   "td": "none",
+   "r": [
+    109,
+    2306,
+    37,
+    19
+   ],
+   "href": "mailto:theshalabali@gmail.com?subject=Reservation Darshana Bungalow"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Tea making facility",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    2318,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Kasih bungalow",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    57,
+    3034,
+    215,
+    38
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Free WiFi",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3091,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Suite 24 sqm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    3091,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "King bed set up only",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3113,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Terrace 16 sqm",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    3113,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "High-end mattresses​ with toppers",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3136,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Max. capacity: 2",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    785,
+    3136,
+    170,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "This pretty Balinese hut is a favorite for solo guests or couples. Made with antique wood from Java it has a cozy interi",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    57,
+    3139,
+    310,
+    112
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Rain shower",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3158,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "​",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    756,
+    3158,
+    199,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Bathtub",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3180,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Air-conditioning",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3203,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Cotton mosquito nets",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3225,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Ceiling fan",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3248,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Safe for valuables",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3270,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Ensuite bathroom",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3292,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Mini fridge",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3315,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Book",
+   "ff": "wfont_f73cef_e9c5d2d287754888b8969f4884dedf3e",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "0.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(12, 68, 38)",
+   "td": "none",
+   "r": [
+    109,
+    3327,
+    37,
+    19
+   ],
+   "href": "mailto:theshalabali@gmail.com?subject=Reservation Pretty Balinese Hut"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Natural bath amenities",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3337,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Tea making facility",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    475,
+    3360,
+    281,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "Deluxe Rooms",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    11,
+    4341,
+    119,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "Wooden Bungalows",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    347,
+    4345,
+    150,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h4",
+   "t": "Master suite (limited availability)",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "30px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "42px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    683,
+    4345,
+    250,
+    32
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Enjoy modern Balinese inspired beauty. Our six Villa Rooms each have a unique design and outlook, some with peaceful jun",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    11,
+    4402,
+    284,
+    222
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Relax in rustic elegance. Our three Darshana Bungalows built from 100% recycled Javanese wood are a perfect hideaway. Ea",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    347,
+    4408,
+    283,
+    250
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Experience a little extra. Our three suites each with attached living area and kitchen are only available during limited",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "28.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    683,
+    4408,
+    267,
+    222
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "For a comprehensive room list with layout, we invite you to download our brochure below",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "30.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    262,
+    4729,
+    457,
+    62
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "button",
+   "t": "Brochure",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "3px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    448,
+    4844,
+    85,
+    19
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    980,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzrto",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    980,
+    599
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-l34265q0",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    980,
+    599
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    54,
+    980,
+    599
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrtp",
+   "tag": "section",
+   "r": [
+    0,
+    653,
+    980,
+    246
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrtp1",
+   "tag": "section",
+   "r": [
+    0,
+    899,
+    980,
+    460
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-l34265qe2",
+   "tag": "section",
+   "r": [
+    0,
+    899,
+    980,
+    460
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    899,
+    980,
+    460
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lpj7d7vb",
+   "tag": "section",
+   "r": [
+    0,
+    1359,
+    980,
+    1021
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lpj7d7zn",
+   "tag": "section",
+   "r": [
+    0,
+    1915,
+    980,
+    465
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    1915,
+    980,
+    465
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lpj7gtds",
+   "tag": "section",
+   "r": [
+    0,
+    2380,
+    980,
+    556
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrtp2",
+   "tag": "section",
+   "r": [
+    0,
+    2936,
+    980,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrtp3",
+   "tag": "section",
+   "r": [
+    0,
+    2976,
+    980,
+    465
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-l34265r41",
+   "tag": "section",
+   "r": [
+    0,
+    2976,
+    980,
+    465
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    2976,
+    980,
+    465
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrtp4",
+   "tag": "section",
+   "r": [
+    0,
+    3441,
+    980,
+    562
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lhbbzrtp5",
+   "tag": "section",
+   "r": [
+    0,
+    4003,
+    980,
+    7530
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-l34265rr1",
+   "tag": "section",
+   "r": [
+    0,
+    4003,
+    980,
+    947
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    4003,
+    980,
+    947
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    11533,
+    980,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_49daee6abfe346aeb35f3dcb964730e9~mv2_d_4096_2304_s_2.jpg",
+   "alt": "IMG_20190306_114250.jpg",
+   "r": [
+    0,
+    0,
+    980,
+    900
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    980,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_59c52e3eb3e0498e8f2562f3f33d1d89~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    1361,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_22c6848b2ec0494893eeda5709963ced.jpg",
+   "alt": "",
+   "r": [
+    332,
+    1361,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_49daee6abfe346aeb35f3dcb964730e9~mv2_d_4096_2304_s_2.jpg",
+   "alt": "",
+   "r": [
+    663,
+    1361,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_743d6147719641509f0600dcbe7b525d~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    1644,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_073222969ba747ada9126b4dd8e4c8b7~mv2.jpg",
+   "alt": "",
+   "r": [
+    332,
+    1644,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_40f1bd1d9c624982a266363f233fcdbc~mv2.jpg",
+   "alt": "",
+   "r": [
+    663,
+    1644,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_66395c376efa45698cd927afb99c6fd6~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    2384,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    110
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_ca8ef460bfc04007aba649ff0aee3892~mv2.jpg",
+   "alt": "",
+   "r": [
+    332,
+    2384,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    196
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_0d89eed1e6b94e7b904bee0f0e96def5~mv2.jpg",
+   "alt": "",
+   "r": [
+    663,
+    2384,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    196
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_78ce044c2338421a80eab87d034929d4~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    2667,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    196
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_2029cf89e73d4af4bccaba47ef09dbbc~mv2.jpg",
+   "alt": "",
+   "r": [
+    332,
+    2667,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    196
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_74d25827c9194245a08431334f2f64c9~mv2.jpg",
+   "alt": "",
+   "r": [
+    663,
+    2667,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    196
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_180a84ecfb52451d95a8b3cc257d6879~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    3441,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    98
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_109f708d20f9490f90c7b109cff7283c.jpg",
+   "alt": "",
+   "r": [
+    332,
+    3441,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    98
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_dbbf38bb1ae04d0d8ef8efee52272097.jpg",
+   "alt": "",
+   "r": [
+    663,
+    3441,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    221
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8d8d59dbaec7478f986c0b3dc531c6a5.jpg",
+   "alt": "",
+   "r": [
+    0,
+    3724,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    98
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_aba8bbf7c9554bfb94dabb09cf6b8e0e~mv2.jpg",
+   "alt": "",
+   "r": [
+    332,
+    3724,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    138,
+    184
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c032243ab5614a1a8833a4220756e7a2~mv2.jpg",
+   "alt": "",
+   "r": [
+    663,
+    3724,
+    317,
+    269
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    184
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_a3a4cc47ae204b5e9256bb898fab244b~mv2.jpg",
+   "alt": "ganesh room with view.jpg",
+   "r": [
+    1,
+    4094,
+    306,
+    204
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_95fe79ffff084547b6bd690fc8cfda44~mv2.jpg",
+   "alt": "unspecified-10 copy.jpg",
+   "r": [
+    337,
+    4094,
+    306,
+    204
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_d79480eaef6d4095800dbd11c00386b5~mv2.jpg",
+   "alt": "The Shala Full-59_edited_edited.jpg",
+   "r": [
+    673,
+    4094,
+    306,
+    204
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    0,
+    0
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_49daee6abfe346aeb35f3dcb964730e9~mv2_d_4096_2304_s_2.jpg",
+   "r": [
+    0,
+    0,
+    980,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_59c52e3eb3e0498e8f2562f3f33d1d89~mv2.jpg",
+   "r": [
+    0,
+    1361,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_22c6848b2ec0494893eeda5709963ced.jpg",
+   "r": [
+    332,
+    1361,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_49daee6abfe346aeb35f3dcb964730e9~mv2_d_4096_2304_s_2.jpg",
+   "r": [
+    663,
+    1361,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_743d6147719641509f0600dcbe7b525d~mv2.jpg",
+   "r": [
+    0,
+    1644,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_073222969ba747ada9126b4dd8e4c8b7~mv2.jpg",
+   "r": [
+    332,
+    1644,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_40f1bd1d9c624982a266363f233fcdbc~mv2.jpg",
+   "r": [
+    663,
+    1644,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_66395c376efa45698cd927afb99c6fd6~mv2.jpg",
+   "r": [
+    0,
+    2384,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_ca8ef460bfc04007aba649ff0aee3892~mv2.jpg",
+   "r": [
+    332,
+    2384,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_0d89eed1e6b94e7b904bee0f0e96def5~mv2.jpg",
+   "r": [
+    663,
+    2384,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_78ce044c2338421a80eab87d034929d4~mv2.jpg",
+   "r": [
+    0,
+    2667,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_2029cf89e73d4af4bccaba47ef09dbbc~mv2.jpg",
+   "r": [
+    332,
+    2667,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_74d25827c9194245a08431334f2f64c9~mv2.jpg",
+   "r": [
+    663,
+    2667,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_180a84ecfb52451d95a8b3cc257d6879~mv2.jpg",
+   "r": [
+    0,
+    3441,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_109f708d20f9490f90c7b109cff7283c.jpg",
+   "r": [
+    332,
+    3441,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_dbbf38bb1ae04d0d8ef8efee52272097.jpg",
+   "r": [
+    663,
+    3441,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8d8d59dbaec7478f986c0b3dc531c6a5.jpg",
+   "r": [
+    0,
+    3724,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_aba8bbf7c9554bfb94dabb09cf6b8e0e~mv2.jpg",
+   "r": [
+    332,
+    3724,
+    317,
+    269
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c032243ab5614a1a8833a4220756e7a2~mv2.jpg",
+   "r": [
+    663,
+    3724,
+    317,
+    269
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [],
+ "buttons": [
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    137,
+    9,
+    77,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    214,
+    9,
+    151,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    365,
+    9,
+    126,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    491,
+    9,
+    182,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    673,
+    9,
+    163,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    836,
+    9,
+    110,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Accommodation",
+   "r": [
+    946,
+    9,
+    140,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1086,
+    9,
+    24,
+    24
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1086,
+    9,
+    114,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    72,
+    1014,
+    26,
+    26
+   ],
+   "bg": "rgba(255, 255, 255, 0)",
+   "border": "0px solid rgb(150, 15, 112)",
+   "radius": "7px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Book",
+   "href": "mailto:theshalabali@gmail.com?subject=Reservation Darshana Bungalow",
+   "r": [
+    57,
+    1238,
+    142,
+    40
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "1px solid rgb(12, 68, 38)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    72,
+    2072,
+    26,
+    26
+   ],
+   "bg": "rgba(255, 255, 255, 0)",
+   "border": "0px solid rgb(150, 15, 112)",
+   "radius": "7px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Book",
+   "href": "mailto:theshalabali@gmail.com?subject=Reservation Darshana Bungalow",
+   "r": [
+    57,
+    2296,
+    142,
+    40
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "1px solid rgb(12, 68, 38)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    72,
+    3091,
+    26,
+    26
+   ],
+   "bg": "rgba(255, 255, 255, 0)",
+   "border": "0px solid rgb(150, 15, 112)",
+   "radius": "7px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Book",
+   "href": "mailto:theshalabali@gmail.com?subject=Reservation Pretty Balinese Hut",
+   "r": [
+    57,
+    3317,
+    142,
+    40
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "1px solid rgb(12, 68, 38)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    1,
+    4094,
+    306,
+    204
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "5px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    337,
+    4094,
+    306,
+    204
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "5px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    673,
+    4094,
+    306,
+    204
+   ],
+   "bg": "rgb(255, 255, 255)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "5px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Brochure",
+   "r": [
+    414,
+    4816,
+    153,
+    76
+   ],
+   "bg": "rgba(255, 255, 255, 0.51)",
+   "border": "0px solid rgb(98, 152, 170)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    137,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    137,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    214,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    214,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    365,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    365,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    491,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    491,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    673,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    673,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    836,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    836,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    946,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    946,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    1086,
+    9,
+    114,
+    40
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1086,
+    9,
+    114,
+    40
+   ]
+  }
+ ],
+ "motion": 67,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": 0,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 10668
+ },
+ "url": "https://www.theshalabali.com/copy-of-villa-rooms",
+ "width": 768,
+ "consoleErrors": []
+}

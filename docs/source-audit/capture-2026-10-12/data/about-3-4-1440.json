@@ -1,0 +1,1958 @@
+{
+ "docHeight": 3851,
+ "docWidth": 1440,
+ "title": "Pilates Retreat | theshalabali",
+ "texts": [
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "HOME",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    372,
+    9,
+    63,
+    40
+   ],
+   "href": "https://www.theshalabali.com"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Retreat Packages",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    449,
+    9,
+    137,
+    40
+   ],
+   "href": "https://www.theshalabali.com/retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Host a retreat",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    600,
+    9,
+    112,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Panchakarma Retreats",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    726,
+    9,
+    169,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    908,
+    9,
+    150,
+    40
+   ],
+   "href": "https://www.theshalabali.com/darshanavedaspa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Indian Cafe",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1071,
+    9,
+    97,
+    40
+   ],
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Accommodation",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1181,
+    9,
+    127,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Experiences",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1321,
+    9,
+    101,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-services"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    189,
+    23,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "La Vie en Rose",
+   "ff": "wfont_6c939c_59c83eafe1664b7eb65e7f3545bdcc2a",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    646,
+    636,
+    149,
+    27
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "Retreat",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "41px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    574,
+    676,
+    292,
+    43
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "Pilates & Pamper",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "41px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    574,
+    676,
+    206,
+    43
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "October 2-7",
+   "ff": "cinzel",
+   "fs": "22px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    652,
+    737,
+    136,
+    29
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "La Vie en Rose Pilates Retreat is an inspired collaboration between Ubud's hottest Pilates studio -",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    334,
+    796,
+    771,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "The Collective Club and the stunning Shala Bali Retreat & Spa.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    334,
+    818,
+    771,
+    22
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Immerse yourself for 5 nights and 6 days of invigorating reformer and mat Pilates classes, innovative, nourishing vegeta",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    334,
+    863,
+    771,
+    67
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Nestled in serene nature, The Shala Bali’s luxurious resort amenities combined with it’s central location, just a stone’",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    334,
+    953,
+    771,
+    67
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "La Vie en Rose Retreat is the transformative escape from every day life that you have been waiting for!",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    334,
+    1042,
+    771,
+    22
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Join us!",
+   "ff": "futura-lt-w01-light",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "4px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(40, 38, 38)",
+   "td": "none",
+   "r": [
+    672,
+    1114,
+    91,
+    26
+   ],
+   "href": "mailto:thecollectiveclub.retreats@gmail.com?subject=La%20Vie%20en%20Rose%20Retreat%20"
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "What's included",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "38px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    1003,
+    1260,
+    148,
+    40
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "5 nights & 6 days in the beautiful accommodation of The Shala Bali, a tropical sanctuary hidden in the heart of Ubud, su",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1327,
+    389,
+    51
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Airport transfer; pick up + drop off",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1383,
+    170,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Minibus transfer for classes and activities",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1402,
+    205,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "x5 Reformer Pilates classes at The Collective Club’s new studio in Ubud centre",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1420,
+    385,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "x4 Mat Pilates classes at The Shala Bali’s pictureque paddy view studio",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1439,
+    351,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Guided sunrise rice paddy walk through the vibrant green fields, starting your day with some fresh air and getting those",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1458,
+    402,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "A water adventure to cool off from the day followed by a destination lunch in a scenic venue",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1495,
+    394,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Daily wake up tea or coffee served to you in the comfort of your bed.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1533,
+    344,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Daily coconuts and smoothies after your Reformer classes",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1551,
+    289,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "x2 meals a day included:",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1570,
+    122,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "-",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1589,
+    8,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "A delicious buffet breakfast will be awaiting you every morning after your class. The Shala Bali kitchen is vegetarian, ",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1589,
+    402,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "- Either lunch or dinner will be included (per day) depending on the day’s schedule, at the two different restaurants si",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1626,
+    361,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "A healthy cooking class in house where you can learn the Balinese cuisine using only the freshest, organic ingredients!",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1664,
+    396,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Indulge in a treatment at our nature spa, Darshana Veda 60 minute Balinese massage with a mini facial and finish it off ",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1701,
+    379,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Photos to capture the hard work, memories and friendships you will have created during retreat",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1738,
+    401,
+    33
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "A beautiful pool amongst the palms to rejuvenate, relax and recover",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1776,
+    335,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "The chance to explore Ubud and enjoy all the sights it has to offer",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1794,
+    325,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Extra surprises along the way!",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "11px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.7px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    889,
+    1813,
+    149,
+    14
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "The Pilates",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "38px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    302,
+    1947,
+    120,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "The Mat Pilates classes will be hosted in house in the beautiful outdoor studio space. The classes will involve using eq",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "13px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    149,
+    2037,
+    410,
+    91
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "The Reformer Pilates classes will be held at The Collective Club’s new larger studio in the centre of Ubud. You will be ",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "13px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "18.2px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    149,
+    2146,
+    410,
+    109
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h3",
+   "t": "Schedule",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "35px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "49px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    674,
+    2485,
+    74,
+    37
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    1440,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lwvexvq8",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    512
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwu4rwfa",
+   "tag": "section",
+   "r": [
+    0,
+    566,
+    1440,
+    650
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwu4rwg4",
+   "tag": "section",
+   "r": [
+    0,
+    1216,
+    1440,
+    745
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwu4rwg7",
+   "tag": "section",
+   "r": [
+    0,
+    1217,
+    1440,
+    704
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    1,
+    1217,
+    1438,
+    704
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwu4rwgr2",
+   "tag": "section",
+   "r": [
+    0,
+    1961,
+    1440,
+    476
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwu4rwgt",
+   "tag": "section",
+   "r": [
+    0,
+    1880,
+    1440,
+    557
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    1,
+    1880,
+    1438,
+    557
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwvfdyn2",
+   "tag": "section",
+   "r": [
+    0,
+    2437,
+    1440,
+    807
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwvfhe3c",
+   "tag": "section",
+   "r": [
+    0,
+    2437,
+    1440,
+    797
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    2437,
+    1440,
+    797
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwvfnicn",
+   "tag": "section",
+   "r": [
+    0,
+    3244,
+    1440,
+    572
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-lwvfnid8",
+   "tag": "section",
+   "r": [
+    0,
+    3244,
+    1440,
+    543
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    3244,
+    1440,
+    543
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    3816,
+    1440,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c8f9f0bd62104bf294b64198ebecd9b7~mv2.jpg",
+   "alt": "Pilates.jpg",
+   "r": [
+    0,
+    54,
+    1440,
+    512
+   ],
+   "fit": "cover",
+   "op": "50% 100%",
+   "nat": [
+    1440,
+    512
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c55fcd314baf485c89001bf4fadcce2e~mv2.jpg",
+   "alt": "KLP_9117.jpg",
+   "r": [
+    0,
+    1217,
+    1440,
+    704
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    1440,
+    704
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c63a6524aca847be8119f07a9e1add96~mv2.jpg",
+   "alt": "unnamed-6.jpg",
+   "r": [
+    1,
+    1218,
+    718,
+    702
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    718,
+    702
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_9e74fe31b20543e08b9cf444eba4b250~mv2.jpg",
+   "alt": "Food Love .jpg",
+   "r": [
+    0,
+    1880,
+    1440,
+    557
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    1440,
+    557
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c723aae47aea49c3b8d78a85e5e96cfc~mv2.jpg",
+   "alt": "DSC04580.JPG",
+   "r": [
+    720,
+    1881,
+    719,
+    555
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    719,
+    555
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_dbc8338404304f3e91a50ad01affeb98~mv2.png",
+   "alt": "",
+   "r": [
+    264,
+    2546,
+    923,
+    662
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    923,
+    662
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_affcfbce595248e2b6ee6cc914f417c8~mv2.jpg",
+   "alt": "",
+   "r": [
+    190,
+    3247,
+    343,
+    249
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_d6bbd768da4348929dff4ad8b97595ac~mv2.jpg",
+   "alt": "",
+   "r": [
+    548,
+    3247,
+    343,
+    249
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_b7065da1f13c43de9bed8e4e21ccd209~mv2.jpg",
+   "alt": "",
+   "r": [
+    905,
+    3247,
+    343,
+    249
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_9e74fe31b20543e08b9cf444eba4b250~mv2.jpg",
+   "alt": "",
+   "r": [
+    190,
+    3510,
+    343,
+    249
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8f58a2ccc644432cb96941cf50f664cb.jpg",
+   "alt": "",
+   "r": [
+    548,
+    3510,
+    343,
+    249
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_cb704625d56c446593c8b3675fe576f0~mv2.jpg",
+   "alt": "",
+   "r": [
+    905,
+    3510,
+    343,
+    249
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    343,
+    249
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c8f9f0bd62104bf294b64198ebecd9b7~mv2.jpg",
+   "r": [
+    0,
+    54,
+    1440,
+    512
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c55fcd314baf485c89001bf4fadcce2e~mv2.jpg",
+   "r": [
+    0,
+    1217,
+    1440,
+    704
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c63a6524aca847be8119f07a9e1add96~mv2.jpg",
+   "r": [
+    1,
+    1218,
+    718,
+    702
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_9e74fe31b20543e08b9cf444eba4b250~mv2.jpg",
+   "r": [
+    0,
+    1880,
+    1440,
+    557
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_c723aae47aea49c3b8d78a85e5e96cfc~mv2.jpg",
+   "r": [
+    720,
+    1881,
+    719,
+    555
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_affcfbce595248e2b6ee6cc914f417c8~mv2.jpg",
+   "r": [
+    190,
+    3247,
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_d6bbd768da4348929dff4ad8b97595ac~mv2.jpg",
+   "r": [
+    548,
+    3247,
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_b7065da1f13c43de9bed8e4e21ccd209~mv2.jpg",
+   "r": [
+    905,
+    3247,
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_9e74fe31b20543e08b9cf444eba4b250~mv2.jpg",
+   "r": [
+    190,
+    3510,
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8f58a2ccc644432cb96941cf50f664cb.jpg",
+   "r": [
+    548,
+    3510,
+    343,
+    249
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_cb704625d56c446593c8b3675fe576f0~mv2.jpg",
+   "r": [
+    905,
+    3510,
+    343,
+    249
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [],
+ "buttons": [
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Accommodation",
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1316,
+    9,
+    24,
+    24
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Join us!",
+   "href": "mailto:thecollectiveclub.retreats@gmail.com?subject=La%20Vie%20en%20Rose%20Retreat%20",
+   "r": [
+    647,
+    1106,
+    142,
+    42
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px solid rgb(174, 99, 63)",
+   "radius": "200px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    264,
+    2546,
+    923,
+    662
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ]
+  }
+ ],
+ "motion": 47,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": -54,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 2951
+ },
+ "url": "https://www.theshalabali.com/about-3-4",
+ "width": 1440,
+ "consoleErrors": []
+}

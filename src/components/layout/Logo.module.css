@@ -1,0 +1,34 @@
+.logo {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+  line-height: 0;
+  transition: opacity var(--dur) ease, filter var(--dur) ease;
+}
+
+.logo:hover {
+  opacity: 0.75;
+}
+
+.wordmark {
+  width: 148px;
+  height: auto;
+}
+
+.mark {
+  width: 76px;
+  height: auto;
+  margin-top: -4px;
+}
+
+@media (max-width: 480px) {
+  .wordmark {
+    width: 128px;
+  }
+
+  .mark {
+    width: 64px;
+  }
+}

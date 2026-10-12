@@ -1,0 +1,791 @@
+/* ---------- Surfaces ---------- */
+.ivory {
+  background: var(--ivory);
+}
+
+.paper,
+.sand {
+  background: var(--limestone);
+}
+
+.forest,
+.dark {
+  background: var(--forest);
+  color: var(--on-dark);
+}
+
+.forest :global(.eyebrow),
+.dark :global(.eyebrow) {
+  color: var(--terracotta-soft);
+}
+
+.forest :global(.script),
+.dark :global(.script) {
+  color: var(--terracotta-soft);
+}
+
+/* ---------- Section head ---------- */
+.head {
+  display: grid;
+  gap: 20px;
+  max-width: 920px;
+}
+
+.head_center {
+  margin-inline: auto;
+  text-align: center;
+  justify-items: center;
+}
+
+.head_split {
+  max-width: none;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: 24px;
+  align-items: end;
+}
+
+.head_split > :first-child {
+  grid-column: 1 / -1;
+}
+
+.head_split > h2,
+.head_split > h3 {
+  grid-column: 1 / span 7;
+}
+
+.head_split .headIntro {
+  grid-column: 9 / -1;
+}
+
+.t_h1 {
+  font-size: var(--fs-h1);
+}
+
+.t_h2 {
+  font-size: var(--fs-h2);
+}
+
+.t_h3 {
+  font-size: var(--fs-h3);
+  line-height: 1.08;
+}
+
+.headIntro {
+  display: grid;
+  gap: 1em;
+  max-width: 60ch;
+  color: var(--muted);
+}
+
+.forest .headIntro,
+.dark .headIntro {
+  color: var(--on-dark-muted);
+}
+
+/* ---------- Statement ---------- */
+.statement {
+  padding-block: var(--section-y);
+}
+
+.statementInner {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: 24px;
+  row-gap: 28px;
+}
+
+.statementInner > :global(.eyebrow) {
+  grid-column: 1 / span 3;
+  align-self: start;
+  padding-top: 0.9em;
+}
+
+.statementText {
+  grid-column: 4 / -1;
+  max-width: 30ch;
+  font-size: clamp(1.7rem, 1.1rem + 2.3vw, 3.4rem);
+  line-height: 1.18;
+  letter-spacing: -0.02em;
+  text-wrap: pretty;
+}
+
+.st_center {
+  text-align: center;
+}
+
+.st_center > :global(.eyebrow) {
+  grid-column: 1 / -1;
+  justify-self: center;
+  padding-top: 0;
+}
+
+.st_center .statementText {
+  grid-column: 2 / span 10;
+}
+
+/* ---------- Marquee (kept for API compatibility; rendered calmly) ---------- */
+.marquee {
+  overflow: hidden;
+  padding-block: 28px;
+  border-block: 1px solid var(--line);
+}
+
+.marqueeTrack {
+  display: flex;
+  width: max-content;
+}
+
+.marqueeRow {
+  display: flex;
+}
+
+.marqueeItem {
+  display: inline-flex;
+  align-items: center;
+  gap: 32px;
+  padding-right: 32px;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: clamp(1.8rem, 1rem + 3vw, 3.6rem);
+  font-style: italic;
+  color: var(--forest);
+}
+
+.marqueeItem svg {
+  color: var(--terracotta);
+}
+
+/* ---------- Media ---------- */
+.media {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background: var(--limestone);
+}
+
+.rounded {
+  border-radius: var(--radius-lg);
+}
+
+.mediaInner {
+  position: absolute;
+  inset: -9% 0;
+}
+
+/* ---------- Feature split ---------- */
+.split {
+  padding-block: var(--section-y);
+}
+
+.splitInner {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: 24px;
+  row-gap: 48px;
+  align-items: center;
+}
+
+.splitMedia {
+  grid-column: 1 / span 6;
+  position: relative;
+}
+
+.splitText {
+  grid-column: 8 / -1;
+  display: grid;
+  gap: 28px;
+  align-content: start;
+}
+
+.splitText > p {
+  max-width: 58ch;
+  color: var(--muted);
+}
+
+.forest .splitText > p,
+.dark .splitText > p {
+  color: var(--on-dark-muted);
+}
+
+.reverse .splitMedia {
+  grid-column: 7 / -1;
+  grid-row: 1;
+}
+
+.reverse .splitText {
+  grid-column: 1 / span 5;
+  grid-row: 1;
+}
+
+/* Small limestone block offset behind the image for depth */
+.splitMedia::before {
+  content: '';
+  position: absolute;
+  inset: 12% -6% -6% 18%;
+  border-radius: var(--radius-lg);
+  background: var(--limestone);
+  z-index: -1;
+}
+
+.reverse .splitMedia::before {
+  inset: 12% 18% -6% -6%;
+}
+
+.paper .splitMedia::before,
+.sand .splitMedia::before {
+  background: var(--limestone-deep);
+}
+
+.forest .splitMedia::before,
+.dark .splitMedia::before {
+  background: var(--forest-3);
+}
+
+.split {
+  position: relative;
+  isolation: isolate;
+}
+
+/* ---------- Fine list ---------- */
+.fine {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line);
+}
+
+.fineCols {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 28px;
+}
+
+.fine li {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+  line-height: 1.55;
+}
+
+.fineDark,
+.forest .fine,
+.dark .fine {
+  border-color: var(--line-dark);
+}
+
+.fineDark li,
+.forest .fine li,
+.dark .fine li {
+  border-color: var(--line-dark);
+}
+
+.fineNum {
+  flex: none;
+  min-width: 26px;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  color: var(--terracotta-text);
+}
+
+.forest .fineNum,
+.dark .fineNum,
+.fineDark .fineNum {
+  color: var(--terracotta-soft);
+}
+
+.fineDot {
+  flex: none;
+  width: 5px;
+  height: 5px;
+  margin-top: 0.15em;
+  border-radius: 50%;
+  background: var(--sage);
+  transform: translateY(-2px);
+}
+
+.fine a {
+  color: inherit;
+  text-underline-offset: 0.2em;
+}
+
+.fine a:hover {
+  color: var(--terracotta-text);
+}
+
+/* ---------- Image card ---------- */
+.card {
+  min-width: 0;
+}
+
+.cardLink {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.cardMedia {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--limestone);
+}
+
+.cardMedia img {
+  transition: transform 1.2s var(--ease-out);
+}
+
+.cardLink:hover .cardMedia img,
+.cardLink:focus-visible .cardMedia img {
+  transform: scale(1.05);
+}
+
+.badge {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--ivory);
+  color: var(--forest);
+  font-size: 0.75rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.cardBody {
+  display: grid;
+  gap: 10px;
+  padding-top: 20px;
+}
+
+.cardEyebrow {
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  color: var(--terracotta-text);
+}
+
+.cardTitle {
+  display: flex;
+  align-items: flex-start;
+  min-height: 2.3em;
+  justify-content: space-between;
+  gap: 16px;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: var(--fs-h4);
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+}
+
+.cardArrow {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border: 1px solid var(--line-strong);
+  border-radius: 50%;
+  font-family: var(--font-ui);
+  font-size: 0.9rem;
+  transition: background-color var(--dur), color var(--dur), border-color var(--dur), transform var(--dur) var(--ease-out);
+}
+
+.cardLink:hover .cardArrow,
+.cardLink:focus-visible .cardArrow {
+  background: var(--forest);
+  border-color: var(--forest);
+  color: var(--ivory);
+  transform: translateX(3px);
+}
+
+.cardText {
+  max-width: 52ch;
+  font-size: var(--fs-small);
+  line-height: 1.65;
+  color: var(--muted);
+}
+
+.forest .cardText,
+.dark .cardText {
+  color: var(--on-dark-muted);
+}
+
+/* ---------- Card grid (staggered editorial rhythm on desktop) ---------- */
+.grid {
+  display: grid;
+  gap: 48px 28px;
+}
+
+.g2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.g3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.g4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+/* Aligned grid: equal tops, cards stretch so titles and links line up */
+.grid > * {
+  height: 100%;
+}
+
+/* ---------- Horizontal rail ---------- */
+.rail {
+  overflow: hidden;
+}
+
+.railTrack {
+  display: flex;
+  align-items: stretch;
+  gap: 28px;
+  height: 100svh;
+  min-height: 640px;
+  padding: calc(var(--header-h) + 24px) var(--gutter) 56px;
+  width: max-content;
+}
+
+.railHead {
+  flex: none;
+  width: min(480px, 34vw);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 32px;
+  padding-right: 32px;
+}
+
+.railCard {
+  position: relative;
+  flex: none;
+  display: flex;
+  flex-direction: column;
+  width: clamp(300px, 30vw, 460px);
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
+.railMedia {
+  position: relative;
+  display: block;
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--forest-3);
+}
+
+.railMedia img {
+  transition: transform 1.2s var(--ease-out);
+}
+
+.railCard:hover .railMedia img,
+.railCard:focus-visible .railMedia img {
+  transform: scale(1.05);
+}
+
+.railMeta {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 14px;
+  row-gap: 6px;
+  padding-top: 18px;
+}
+
+.railIndex {
+  grid-row: span 2;
+  font-size: 0.75rem;
+  color: var(--terracotta-soft);
+  padding-top: 0.6em;
+}
+
+.railTitle {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: var(--fs-h4);
+  line-height: 1.15;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+  width: fit-content;
+  transition: background-size 0.6s var(--ease-out);
+}
+
+.railCard:hover .railTitle,
+.railCard:focus-visible .railTitle {
+  background-size: 100% 1px;
+}
+
+.railText {
+  font-size: var(--fs-small);
+  color: var(--on-dark-muted);
+  line-height: 1.55;
+}
+
+.ivory .railText,
+.paper .railText {
+  color: var(--muted);
+}
+
+/* Touch / tablet: native horizontal swipe with scroll-snap */
+@media (max-width: 1023px) {
+  .railTrack {
+    width: auto;
+    height: auto;
+    min-height: 0;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-padding-inline: var(--gutter);
+    scrollbar-width: none;
+    padding-top: var(--section-y);
+    padding-bottom: var(--section-y);
+  }
+
+  .railTrack::-webkit-scrollbar {
+    display: none;
+  }
+
+  .railHead {
+    width: min(78vw, 360px);
+    padding-right: 0;
+    scroll-snap-align: start;
+  }
+
+  .railCard {
+    width: min(78vw, 360px);
+    scroll-snap-align: start;
+  }
+
+  .railCard:nth-of-type(even) {
+    padding-top: 0;
+  }
+
+  .railMedia {
+    flex: none;
+    aspect-ratio: 4 / 5;
+  }
+}
+
+/* ---------- Stats ---------- */
+.stats {
+  padding-block: clamp(64px, 8vw, 120px);
+}
+
+.statsGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0;
+  margin: 0 auto;
+}
+
+.stat {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  gap: 14px;
+  padding: 8px 28px 8px 0;
+  margin-right: 28px;
+  border-right: 1px solid var(--line);
+}
+
+.stat:last-child {
+  border-right: 0;
+  margin-right: 0;
+}
+
+.forest .stat,
+.dark .stat {
+  border-color: var(--line-dark);
+}
+
+.statValue {
+  margin: 0;
+  font-size: clamp(3rem, 2rem + 3.6vw, 5.6rem);
+  line-height: 0.9;
+  color: var(--forest);
+}
+
+.forest .statValue,
+.dark .statValue {
+  color: var(--on-dark);
+}
+
+.statUnit {
+  margin-left: 4px;
+  font-size: 0.36em;
+  font-style: italic;
+  letter-spacing: 0;
+  color: var(--terracotta);
+}
+
+.statLabel {
+  max-width: 28ch;
+  font-size: var(--fs-small);
+  line-height: 1.55;
+  color: var(--muted);
+}
+
+/* ---------- Contact panel ---------- */
+.contact {
+  padding-block: var(--section-y);
+  background: var(--limestone);
+}
+
+.contactInner {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: 24px;
+  row-gap: 48px;
+  align-items: start;
+}
+
+.contactText {
+  grid-column: 1 / span 5;
+  display: grid;
+  gap: 24px;
+}
+
+.contactTitle {
+  font-size: var(--fs-h2);
+}
+
+.contactLines {
+  display: grid;
+  font-style: normal;
+  font-size: 1.05rem;
+  color: var(--muted);
+}
+
+.contactList {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line-strong);
+}
+
+.contactList li {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 16px;
+  align-items: baseline;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.contactLabel {
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--terracotta-text);
+}
+
+.contactList a {
+  overflow-wrap: anywhere;
+  color: var(--ink);
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
+  transition: background-size 0.5s var(--ease-out);
+}
+
+.contactList a:hover,
+.contactList a:focus-visible {
+  background-size: 100% 1px;
+}
+
+.contactActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.contactMap {
+  grid-column: 7 / -1;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 1023px) {
+  .splitMedia,
+  .splitText,
+  .reverse .splitMedia,
+  .reverse .splitText {
+    grid-column: 1 / -1;
+    grid-row: auto;
+  }
+
+  .splitMedia::before,
+  .reverse .splitMedia::before {
+    inset: 10% -3% -4% 20%;
+  }
+
+  .head_split > h2,
+  .head_split > h3,
+  .head_split .headIntro {
+    grid-column: 1 / -1;
+  }
+
+  .statementInner > :global(.eyebrow),
+  .statementText,
+  .st_center .statementText {
+    grid-column: 1 / -1;
+  }
+
+  .statementInner > :global(.eyebrow) {
+    padding-top: 0;
+  }
+
+  .g3,
+  .g4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .statsGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    row-gap: 40px;
+  }
+
+  .stat:nth-child(2n) {
+    border-right: 0;
+    margin-right: 0;
+  }
+
+  .contactText,
+  .contactMap {
+    grid-column: 1 / -1;
+  }
+}
+
+@media (max-width: 640px) {
+  .g2,
+  .g3,
+  .g4,
+  .fineCols {
+    grid-template-columns: 1fr;
+  }
+
+  .grid {
+    gap: 44px;
+  }
+
+  .statsGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .stat {
+    border-right: 0;
+    margin-right: 0;
+    padding: 0 0 28px;
+    border-bottom: 1px solid var(--line);
+  }
+
+  .contactList li {
+    grid-template-columns: 1fr;
+    gap: 4px;
+  }
+}

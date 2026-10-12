@@ -1,0 +1,1270 @@
+{
+ "docHeight": 3753,
+ "docWidth": 320,
+ "title": "Shop | theshalabali",
+ "texts": [
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    411,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$85.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    438,
+    63,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    758,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-1"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$20.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    786,
+    65,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-1"
+  },
+  {
+   "tag": "div",
+   "ctx": "a",
+   "t": "Best Seller",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    30,
+    830,
+    89,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-2"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    1106,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-2"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$10.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    1134,
+    62,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-2"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    1454,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-3"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$25.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    1482,
+    63,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-3"
+  },
+  {
+   "tag": "div",
+   "ctx": "a",
+   "t": "New",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "14px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "19.6px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    30,
+    1526,
+    53,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-4"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    1802,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-4"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$7.50",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    1830,
+    51,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-4"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    2150,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-5"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$15.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    2177,
+    60,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-5"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    2497,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-6"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$85.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    2525,
+    63,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-6"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    2845,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-7"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$40.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    2873,
+    65,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-7"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    3193,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-8"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$130.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    3221,
+    71,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-8"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "I'm a product",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24.8px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    30,
+    3541,
+    96,
+    25
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-9"
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "A$45.00",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "left",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    30,
+    3569,
+    63,
+    24
+   ],
+   "href": "https://www.theshalabali.com/product-page/i-m-a-product-9"
+  },
+  {
+   "tag": "button",
+   "ctx": "button",
+   "t": "Load More",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "22.4px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    53,
+    3618,
+    215,
+    44
+   ]
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    320,
+    50
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzrt51",
+   "tag": "section",
+   "r": [
+    0,
+    50,
+    320,
+    3637
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "section",
+   "r": [
+    30,
+    135,
+    260,
+    3552
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "static"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    3687,
+    320,
+    66
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_778fac54c048423d9ecc09bc967b3d8b.jpg",
+   "alt": "",
+   "r": [
+    0,
+    0,
+    320,
+    3753
+   ],
+   "fit": "cover",
+   "op": "50% 0%",
+   "nat": [
+    150,
+    48
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_9928686dcfa740bd802821d0b6f4ac03.jpg",
+   "alt": "",
+   "r": [
+    30,
+    135,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_1eec973ae9eb43f4bca9876e5d90f6fa.jpg",
+   "alt": "",
+   "r": [
+    30,
+    482,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_119100d8c0144221b2f6733f4d205d2e.jpg",
+   "alt": "",
+   "r": [
+    30,
+    830,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_c6158b4d41784ae8b08337a331e1de7f.jpg",
+   "alt": "",
+   "r": [
+    30,
+    1178,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_03155a7e79bd4cca9aaf3f0e98378100.jpg",
+   "alt": "",
+   "r": [
+    30,
+    1526,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_5bc54b597d67423d8022157cef968f7b.jpg",
+   "alt": "",
+   "r": [
+    30,
+    1874,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_5e32b6d9419343c29c68e9173b5461e0.jpg",
+   "alt": "",
+   "r": [
+    30,
+    2221,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_ea68bd8398ac489a8e4e8b99755f96b0.jpg",
+   "alt": "",
+   "r": [
+    30,
+    2569,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_849d96e85f044bc7ae0a47f78d9a898b.jpg",
+   "alt": "",
+   "r": [
+    30,
+    2917,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_18ef3d9c8058444ea08059329237a1f2.jpg",
+   "alt": "",
+   "r": [
+    30,
+    3265,
+    260,
+    260
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    147,
+    147
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_778fac54c048423d9ecc09bc967b3d8b.jpg",
+   "r": [
+    0,
+    0,
+    320,
+    3753
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_9928686dcfa740bd802821d0b6f4ac03.jpg",
+   "r": [
+    30,
+    135,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_1eec973ae9eb43f4bca9876e5d90f6fa.jpg",
+   "r": [
+    30,
+    482,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_119100d8c0144221b2f6733f4d205d2e.jpg",
+   "r": [
+    30,
+    830,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_c6158b4d41784ae8b08337a331e1de7f.jpg",
+   "r": [
+    30,
+    1178,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_03155a7e79bd4cca9aaf3f0e98378100.jpg",
+   "r": [
+    30,
+    1526,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_5bc54b597d67423d8022157cef968f7b.jpg",
+   "r": [
+    30,
+    1874,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_5e32b6d9419343c29c68e9173b5461e0.jpg",
+   "r": [
+    30,
+    2221,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_ea68bd8398ac489a8e4e8b99755f96b0.jpg",
+   "r": [
+    30,
+    2569,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_849d96e85f044bc7ae0a47f78d9a898b.jpg",
+   "r": [
+    30,
+    2917,
+    260,
+    260
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/a9ff3b_18ef3d9c8058444ea08059329237a1f2.jpg",
+   "r": [
+    30,
+    3265,
+    260,
+    260
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [
+  {
+   "src": "about:blank",
+   "title": "Chat widget",
+   "r": [
+    249,
+    624,
+    55,
+    52
+   ]
+  },
+  {
+   "src": "about:blank",
+   "title": "Chat widget",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "buttons": [
+  {
+   "t": "",
+   "r": [
+    255,
+    0,
+    50,
+    50
+   ],
+   "bg": "rgba(255, 255, 255, 0)",
+   "border": "1px solid rgba(144, 144, 144, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "0",
+   "href": "https://www.theshalabali.com/cart",
+   "r": [
+    143,
+    60,
+    34,
+    41
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Load More",
+   "r": [
+    53,
+    3618,
+    215,
+    44
+   ],
+   "bg": "rgba(255, 255, 255, 0)",
+   "border": "1px solid rgb(74, 74, 74)",
+   "radius": "0px",
+   "pad": "10px 20px",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "400",
+   "c": "rgb(74, 74, 74)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    16,
+    627,
+    50,
+    50
+   ],
+   "bg": "rgba(255, 255, 255, 0.3)",
+   "border": "0px solid rgb(255, 255, 255)",
+   "radius": "50%",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "BungalowsDeluxe RoomsMaster Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Recipes",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Recipes",
+   "href": "https://www.theshalabali.com/recipes",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  }
+ ],
+ "motion": 15,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": 0,
+  "height": 50,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 3060
+ },
+ "url": "https://www.theshalabali.com/shop",
+ "width": 390,
+ "consoleErrors": []
+}

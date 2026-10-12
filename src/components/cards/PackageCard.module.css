@@ -1,0 +1,228 @@
+/* Retreat package as an editorial "menu": image, numbered title, quiet inclusion list and a price ledger.
+   No box, no shadow — a hairline rule and whitespace carry the structure. */
+.card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  color: var(--ink);
+}
+
+.media {
+  position: relative;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--limestone-deep);
+}
+
+.media img {
+  transition: transform 1s var(--ease-out);
+}
+
+.card:hover .media img,
+.card:focus-within .media img {
+  transform: scale(1.05);
+}
+
+.index {
+  position: absolute;
+  left: 16px;
+  bottom: 14px;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-style: italic;
+  font-variation-settings: 'opsz' 144, 'SOFT' 100;
+  font-size: clamp(2.4rem, 2rem + 1.4vw, 3.4rem);
+  line-height: 1;
+  letter-spacing: -0.03em;
+  color: var(--ivory);
+  text-shadow: 0 1px 18px rgba(27, 48, 39, 0.35);
+  pointer-events: none;
+}
+
+.body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 22px;
+  padding-top: clamp(24px, 2.4vw, 32px);
+}
+
+.title {
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--line-strong);
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 96, 'SOFT' 50;
+  font-size: clamp(1.6rem, 1.35rem + 0.8vw, 2.1rem);
+  line-height: 1.1;
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+
+.list {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: var(--fs-small);
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.list li {
+  position: relative;
+  padding-left: 22px;
+}
+
+.list li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.8em;
+  width: 10px;
+  height: 1px;
+  background: var(--terracotta);
+}
+
+.list em {
+  font-style: italic;
+  color: var(--ink);
+}
+
+.list a {
+  color: var(--terracotta-text);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+  transition: color var(--dur-fast);
+}
+
+.list a:hover {
+  color: var(--ink);
+}
+
+.extras {
+  gap: 2px;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+}
+
+.extras li {
+  color: var(--ink);
+}
+
+.list .note {
+  padding-left: 22px;
+  font-size: 0.875rem;
+  color: var(--muted);
+}
+
+.list .note::before {
+  display: none;
+}
+
+/* Price ledger: pinned to the bottom of the card so ledgers, footnotes and Book buttons line up
+   across a row; set on a soft panel so it reads as one block at every card height. */
+.prices {
+  display: grid;
+  margin: auto 0 0;
+  padding: 4px 16px;
+  border-radius: var(--radius-lg);
+  background: rgba(247, 244, 236, 0.66);
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+
+.row {
+  display: grid;
+  grid-template-columns: auto minmax(16px, 1fr) auto;
+  align-items: baseline;
+  column-gap: 12px;
+  padding: 13px 0;
+}
+
+.row + .row {
+  border-top: 1px solid var(--line);
+}
+
+.row dt {
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 0.8125rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.leader {
+  align-self: center;
+  background-image: radial-gradient(circle, var(--line-strong) 0.8px, transparent 1px);
+  background-size: 6px 2px;
+  background-repeat: repeat-x;
+  background-position: 0 50%;
+  height: 2px;
+  transform: translateY(4px);
+}
+
+.row dd {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 48;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  letter-spacing: -0.005em;
+  white-space: nowrap;
+  font-variant-numeric: lining-nums tabular-nums;
+  color: var(--ink);
+}
+
+.row dd a {
+  display: inline-block;
+  padding-block: 8px;
+  margin-block: -8px;
+  color: var(--terracotta-text);
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) 0 calc(100% - 6px) / 100% 1px no-repeat;
+  transition: background-size var(--dur) var(--ease-out), color var(--dur-fast);
+}
+
+.row dd a:hover {
+  color: var(--ink);
+  background-size: 0 1px;
+  background-position: 100% calc(100% - 6px);
+}
+
+.flag {
+  grid-column: 1 / -1;
+  margin-top: 4px;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: var(--terracotta-text);
+}
+
+.footnote {
+  font-size: 0.875rem;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.book {
+  align-self: flex-start;
+  margin-top: 4px;
+}
+
+@media (max-width: 400px) {
+  .prices {
+    padding-inline: 12px;
+  }
+
+  .row {
+    column-gap: 8px;
+  }
+
+  .row dd {
+    font-size: 1.1rem;
+  }
+}

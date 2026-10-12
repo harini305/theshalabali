@@ -1,0 +1,210 @@
+/* Darshana Veda Spa: a quieter register than the rest of the site — more air, centred pauses,
+   sage hairlines and a single forest band for the motto. */
+
+/* ---------- Ethos ---------- */
+.ethosSection {
+  padding-block: var(--section-y);
+}
+
+.ethosGrid {
+  display: grid;
+  gap: clamp(40px, 5vw, 64px);
+}
+
+.video {
+  position: relative;
+  aspect-ratio: var(--r-tall);
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--limestone);
+}
+
+.ethosText {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.ethos {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  padding-top: 28px;
+  border-top: 1px solid rgba(129, 145, 122, 0.45);
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.ethos .ethosLead {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 48;
+  font-size: var(--fs-lead);
+  line-height: 1.45;
+  color: var(--ink);
+}
+
+.book {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 16px 28px;
+  margin-top: 8px;
+}
+
+.phone {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 1.5rem;
+  color: var(--ink);
+  text-decoration: none;
+  background: linear-gradient(currentColor, currentColor) 0 85% / 100% 1px no-repeat;
+  transition: background-size var(--dur) var(--ease-out), color var(--dur-fast);
+}
+
+.phone:hover {
+  color: var(--terracotta-text);
+  background-size: 0 1px;
+  background-position: 100% 85%;
+}
+
+/* ---------- Motto band ---------- */
+.motto {
+  padding-block: clamp(48px, 5vw, 80px);
+  background: var(--forest);
+  color: var(--on-dark);
+}
+
+.mottoText {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(14px, 2vw, 24px);
+  text-align: center;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 300;
+  font-variation-settings: 'opsz' 144, 'SOFT' 100;
+  font-size: clamp(1.6rem, 1.1rem + 2vw, 3rem);
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  color: var(--terracotta-soft);
+}
+
+.mottoRule {
+  width: 1px;
+  height: clamp(28px, 4vw, 44px);
+  background: var(--line-dark);
+}
+
+@media (min-width: 900px) {
+  .mottoText {
+    flex-direction: row;
+  }
+  .mottoRule {
+    height: 1.1em;
+  }
+}
+
+/* ---------- Menu ---------- */
+.menu {
+  padding-block: var(--section-y);
+  background: var(--limestone);
+}
+
+.menuHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: clamp(28px, 3.5vw, 48px);
+}
+
+.hint {
+  font-size: var(--fs-small);
+  color: var(--muted);
+}
+
+/* ---------- Pillars: aligned grid, one image ratio, equal tops ---------- */
+.pillars {
+  padding-block: var(--section-y);
+}
+
+.pillarGrid {
+  display: grid;
+  gap: 48px 24px;
+  align-items: start;
+}
+
+.pillar {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  min-width: 0;
+}
+
+.pillarBody {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 50ch;
+  padding-top: 18px;
+  border-top: 1px solid rgba(129, 145, 122, 0.45);
+}
+
+.pillarNum {
+  font-size: var(--fs-caption);
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  color: var(--sage);
+}
+
+.pillarTitle {
+  font-size: var(--fs-h4);
+  line-height: 1.15;
+  margin-bottom: 4px;
+}
+
+.pillarText {
+  color: var(--muted);
+  font-size: var(--fs-small);
+  line-height: 1.7;
+}
+
+.pillars .book {
+  justify-content: center;
+  margin-top: clamp(40px, 4vw, 56px);
+  padding-top: clamp(28px, 3vw, 40px);
+  border-top: 1px solid rgba(129, 145, 122, 0.45);
+}
+
+@media (min-width: 768px) {
+  .pillarGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1200px) {
+  .pillarGrid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .ethosGrid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: 24px;
+    align-items: center;
+  }
+  .videoCol {
+    grid-column: 1 / 6;
+  }
+  .ethosText {
+    grid-column: 7 / 13;
+  }
+}

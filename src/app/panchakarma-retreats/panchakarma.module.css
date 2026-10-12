@@ -1,0 +1,319 @@
+/* ---------- Intro: portrait + serif paragraphs, vertically centred ---------- */
+.introBlock {
+  padding-block: var(--section-y);
+}
+
+.introGrid {
+  display: grid;
+  gap: clamp(40px, 6vw, 72px);
+}
+
+.introText {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.introPara {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 48;
+  font-size: clamp(1.2rem, 1.05rem + 0.6vw, 1.6rem);
+  line-height: 1.5;
+  letter-spacing: -0.005em;
+}
+
+/* ---------- Benefits (forest) ---------- */
+.benefits {
+  padding-block: var(--section-y);
+  background: var(--forest);
+  color: var(--on-dark);
+}
+
+.benefits :global(.eyebrow) {
+  color: var(--terracotta-soft);
+}
+
+.benefitsGrid {
+  display: grid;
+  gap: clamp(32px, 4vw, 56px);
+}
+
+/* Heading and lead grouped in one row; the ten benefits sit below as an aligned two-column list */
+.benefitsHead {
+  align-items: end;
+}
+
+.benefitsGrid p {
+  color: var(--on-dark-muted);
+}
+
+/* ---------- Programmes: open columns divided by hairlines, prices as real text ---------- */
+.programmes {
+  padding-block: var(--section-y);
+  background: var(--limestone);
+}
+
+.programHead {
+  display: grid;
+  gap: 24px;
+  align-items: end;
+}
+
+.cards {
+  display: grid;
+  gap: 56px clamp(24px, 3vw, 48px);
+  margin-top: clamp(36px, 4.5vw, 64px);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-width: 0;
+}
+
+.cardMedia {
+  position: relative;
+  aspect-ratio: var(--r-land);
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--limestone-deep);
+}
+
+.cardMedia img {
+  transition: transform 1.4s var(--ease-out);
+}
+
+.card:hover .cardMedia img {
+  transform: scale(1.03);
+}
+
+.cardBody {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line-strong);
+}
+
+.duration {
+  font-size: var(--fs-h3);
+}
+
+.list {
+  width: 100%;
+  padding: 0;
+  list-style: none;
+  font-size: var(--fs-small);
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.list li {
+  position: relative;
+  padding: 9px 0 9px 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.list li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 1.15em;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: var(--terracotta);
+}
+
+.priceLabel {
+  margin-top: auto;
+  padding-top: 8px;
+  font-weight: 500;
+  font-size: var(--fs-eyebrow);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--terracotta-text);
+}
+
+.prices {
+  display: grid;
+  width: 100%;
+  border-top: 1px solid var(--line-strong);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 4px 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.row dt {
+  font-weight: 500;
+  font-size: var(--fs-small);
+  color: var(--ink);
+}
+
+.row dd {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: right;
+}
+
+.idr {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 1.3;
+  color: var(--ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.usd {
+  font-size: var(--fs-small);
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.card :global(a) {
+  margin-top: 8px;
+}
+
+.setting {
+  max-width: 56ch;
+  font-size: clamp(1.05rem, 0.98rem + 0.35vw, 1.3rem);
+  color: var(--muted);
+}
+
+.para {
+  max-width: 58ch;
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+/* ---------- Doctor ---------- */
+.doctor {
+  padding-block: var(--section-y);
+  background: var(--limestone);
+}
+
+.doctorGrid {
+  display: grid;
+  gap: clamp(48px, 6vw, 72px);
+}
+
+.doctorText {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.portrait {
+  position: relative;
+  width: 100%;
+  max-width: 520px;
+  aspect-ratio: var(--r-portrait);
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--limestone-deep);
+}
+
+.bio {
+  margin-top: 16px;
+  padding-top: 28px;
+  border-top: 1px solid var(--line-strong);
+  line-height: 1.8;
+  color: var(--muted);
+}
+
+.bioTitle {
+  margin-bottom: 12px;
+  font-size: var(--fs-h4);
+  color: var(--ink);
+}
+
+/* ---------- FAQ ---------- */
+.faq {
+  padding-block: var(--section-y);
+}
+
+.faqGrid {
+  display: grid;
+  gap: 48px;
+}
+
+@media (max-width: 380px) {
+  .row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .row dd {
+    align-items: flex-start;
+    text-align: left;
+  }
+}
+
+@media (min-width: 640px) {
+  .cards {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .introGrid,
+  .programHead,
+  .faqGrid,
+  .doctorGrid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: 24px;
+  }
+  .introGrid {
+    align-items: center;
+  }
+  .introMedia {
+    grid-column: 1 / 6;
+  }
+  .introText {
+    grid-column: 7 / 13;
+  }
+  .programHead > :first-child,
+  .faqGrid > :first-child {
+    grid-column: 1 / 7;
+  }
+  .faqGrid > :first-child {
+    grid-column: 1 / 6;
+  }
+  .programHead > :last-child,
+  .faqGrid > :last-child {
+    grid-column: 8 / 13;
+  }
+  .faqGrid > :last-child {
+    grid-column: 7 / 13;
+  }
+  .faqGrid > :first-child {
+    position: sticky;
+    top: calc(var(--header-h) + 24px);
+    align-self: start;
+  }
+  .cards {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+  .doctorGrid {
+    align-items: center;
+  }
+  .doctorText {
+    grid-column: 1 / 7;
+  }
+  .portrait {
+    grid-column: 8 / 13;
+    justify-self: end;
+  }
+}

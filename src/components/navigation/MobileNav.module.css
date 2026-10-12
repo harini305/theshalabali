@@ -1,0 +1,233 @@
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  height: 44px;
+  padding: 0 6px 0 16px;
+  border: 1px solid color-mix(in srgb, currentColor 30%, transparent);
+  border-radius: 999px;
+  background: none;
+  color: inherit;
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: border-color var(--dur);
+}
+
+.toggle:hover {
+  border-color: currentColor;
+}
+
+.bars {
+  display: grid;
+  place-content: center;
+  gap: 5px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--forest);
+}
+
+.bars span {
+  display: block;
+  width: 14px;
+  height: 1.5px;
+  background: var(--ivory);
+  transition: transform 0.4s var(--ease-out);
+}
+
+.toggle:hover .bars span:last-child {
+  transform: translateX(-3px);
+}
+
+@media (min-width: 1400px) {
+  .toggle {
+    display: none;
+  }
+}
+
+/* Overlay */
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-menu);
+  display: flex;
+  flex-direction: column;
+  background: var(--forest);
+  color: var(--on-dark);
+  visibility: hidden;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: var(--header-h);
+  padding-inline: var(--gutter);
+  border-bottom: 1px solid var(--line-dark);
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 300;
+  letter-spacing: -0.01em;
+}
+
+.close {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  height: 44px;
+  padding: 0 6px 0 16px;
+  border: 1px solid var(--line-dark);
+  border-radius: 999px;
+  background: none;
+  color: inherit;
+  font-family: var(--font-ui);
+  font-size: 0.875rem;
+  cursor: pointer;
+}
+
+.x {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--terracotta);
+}
+
+.x::before,
+.x::after {
+  content: '';
+  position: absolute;
+  left: 9px;
+  top: 15.25px;
+  width: 14px;
+  height: 1.5px;
+  background: var(--white);
+  transform: rotate(45deg);
+}
+
+.x::after {
+  transform: rotate(-45deg);
+}
+
+.body {
+  flex: 1;
+  display: grid;
+  gap: 48px;
+  padding: 32px var(--gutter) 48px;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: none;
+}
+
+.item {
+  border-bottom: 1px solid var(--line-dark);
+}
+
+.mask {
+  display: block;
+  overflow: hidden;
+}
+
+.link {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 12px 0;
+  color: inherit;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: clamp(1.6rem, 1.1rem + 2.6vw, 2.6rem);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  text-decoration: none;
+  transition: color 0.3s, padding-left 0.5s var(--ease-out);
+}
+
+.link:hover,
+.link:focus-visible {
+  color: var(--terracotta-soft);
+  padding-left: 8px;
+}
+
+.link[aria-current='page'] {
+  color: var(--terracotta-soft);
+  font-style: italic;
+}
+
+.num {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  color: var(--on-dark-muted);
+  min-width: 22px;
+}
+
+.group {
+  margin-left: auto;
+  font-family: var(--font-ui);
+  font-style: normal;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--on-dark-muted);
+}
+
+.aside {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 28px;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--on-dark-muted);
+}
+
+.aside address {
+  font-style: normal;
+}
+
+.aside address span,
+.aside a {
+  display: block;
+}
+
+.aside a {
+  color: var(--on-dark);
+  text-decoration: none;
+  padding: 3px 0;
+}
+
+.aside a:hover {
+  color: var(--terracotta-soft);
+}
+
+.label {
+  margin-bottom: 8px;
+  font-size: 0.72rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--terracotta-soft);
+}
+
+@media (min-width: 900px) {
+  .body {
+    grid-template-columns: 1.6fr 1fr;
+    align-items: start;
+    gap: 72px;
+  }
+
+  .aside {
+    grid-template-columns: 1fr;
+    padding-top: 12px;
+  }
+}

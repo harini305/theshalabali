@@ -1,0 +1,1967 @@
+{
+ "docHeight": 2278,
+ "docWidth": 1440,
+ "title": "Organic Vegetarian Cafe | theshalabali",
+ "texts": [
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Vegan",
+   "ff": "open sans condensed",
+   "fs": "41px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "4.1px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -714,
+    133,
+    56
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "friendly",
+   "ff": "open sans condensed",
+   "fs": "41px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "3.55333px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    375,
+    -714,
+    152,
+    56
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Gluten",
+   "ff": "open sans condensed",
+   "fs": "26px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "2.25333px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -648,
+    81,
+    36
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "free options",
+   "ff": "open sans condensed",
+   "fs": "26px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "2.6px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    323,
+    -648,
+    164,
+    36
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "RAW delights",
+   "ff": "open sans condensed",
+   "fs": "33px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "3.3px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -602,
+    210,
+    45
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Fresh baked breads",
+   "ff": "open sans condensed",
+   "fs": "28px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "2.8px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -552,
+    263,
+    38
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Organic",
+   "ff": "open sans condensed",
+   "fs": "41px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "4.1px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -509,
+    151,
+    56
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Cooking Lessons",
+   "ff": "open sans condensed",
+   "fs": "31px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "3.1px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -447,
+    244,
+    42
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Made with",
+   "ff": "open sans condensed",
+   "fs": "35px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -400,
+    149,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "LOVE",
+   "ff": "open sans condensed",
+   "fs": "35px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    397,
+    -400,
+    67,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Yummy",
+   "ff": "open sans condensed",
+   "fs": "43px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "4.44333px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    242,
+    -347,
+    150,
+    59
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Food with flare , made with care",
+   "ff": "sacramento",
+   "fs": "60px",
+   "fw": "400",
+   "fst": "italic",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    407,
+    -188,
+    614,
+    88
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "HOME",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    372,
+    9,
+    63,
+    40
+   ],
+   "href": "https://www.theshalabali.com"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Retreat Packages",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    449,
+    9,
+    137,
+    40
+   ],
+   "href": "https://www.theshalabali.com/retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Host a retreat",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    600,
+    9,
+    112,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Panchakarma Retreats",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    726,
+    9,
+    169,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Darshana Veda Spa",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    908,
+    9,
+    150,
+    40
+   ],
+   "href": "https://www.theshalabali.com/darshanavedaspa"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Indian Cafe",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1071,
+    9,
+    97,
+    40
+   ],
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe"
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Accommodation",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1181,
+    9,
+    127,
+    40
+   ]
+  },
+  {
+   "tag": "p",
+   "ctx": "p",
+   "t": "Experiences",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "40px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    1321,
+    9,
+    101,
+    40
+   ],
+   "href": "https://www.theshalabali.com/copy-of-services"
+  },
+  {
+   "tag": "a",
+   "ctx": "a",
+   "t": "Yoga Retreat & Ayurvedic Spa",
+   "ff": "wfont_4c89f1_3d9211df002b434f8438887834b8e21f",
+   "fs": "20px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    189,
+    23,
+    170,
+    21
+   ],
+   "href": "https://www.theshalabali.com/baliyogaretreat"
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "FOOD!",
+   "ff": "playfair display",
+   "fs": "28px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    242,
+    41,
+    90,
+    37
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "It is one of the main ingredients in any amazing holiday and at The Shala Bali eating well does not mean deprivation. We",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    242,
+    55,
+    458,
+    107
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": ">> Imagine",
+   "ff": "playfair display",
+   "fs": "23px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    260,
+    183,
+    120,
+    31
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Organic spelt, sourdough & gluten free breads BAKED IN HOUSE with home made condiments - think Pineapple Vanilla Bean Ja",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    257,
+    192,
+    436,
+    65
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "-",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    380,
+    192,
+    17,
+    21
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": ">> Fermented products for a healthy tummy?? YES! We make our own Kombucha in different fruity flavours and our own natur",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    242,
+    278,
+    467,
+    63
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": ">> Your retreat your menu!",
+   "ff": "playfair display",
+   "fs": "20px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    248,
+    362,
+    248,
+    27
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Choose from our eclectic menu of sweet and savory dishes from around the world and enjoy the foods you like the most dur",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    243,
+    368,
+    466,
+    64
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "-",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    495,
+    368,
+    17,
+    21
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": ">> delicious >> healing >> kind to the earth",
+   "ff": "open sans condensed",
+   "fs": "32px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    243,
+    585,
+    465,
+    43
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Organic Cafe Menu",
+   "ff": "bree-w01-thin-oblique",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "21px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(255, 255, 254)",
+   "td": "none",
+   "r": [
+    658,
+    863,
+    118,
+    21
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "COME ON A FOOD JOURNEY",
+   "ff": "playfair display",
+   "fs": "40px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "4px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 177, 175)",
+   "td": "none",
+   "r": [
+    416,
+    1053,
+    607,
+    53
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "As a place of Yoga and healing, we serve food that not only supports your body to thrive but is also supportive to the e",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    349,
+    1173,
+    776,
+    60
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "good for the soul.",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "16px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(1, 77, 9)",
+   "td": "none",
+   "r": [
+    673,
+    1233,
+    127,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "LUNCH",
+   "ff": "open sans condensed",
+   "fs": "35px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "1.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    538,
+    1594,
+    100,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "BREAKFAST",
+   "ff": "open sans condensed",
+   "fs": "35px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "1.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    266,
+    1598,
+    164,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "DINNER",
+   "ff": "open sans condensed",
+   "fs": "35px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "1.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    787,
+    1598,
+    117,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h1",
+   "t": "DESSERT",
+   "ff": "open sans condensed",
+   "fs": "35px",
+   "fw": "700",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "1.75px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(255, 255, 255)",
+   "td": "none",
+   "r": [
+    1030,
+    1598,
+    123,
+    47
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "Cook with us",
+   "ff": "playfair display",
+   "fs": "32px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "normal",
+   "ls": "0.32px",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    619,
+    1810,
+    190,
+    43
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "h2",
+   "t": "We are waiting to share our secrets with you",
+   "ff": "museo-slab-w01-100",
+   "fs": "18px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "21.6px",
+   "ls": "0.512px",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(113, 112, 112)",
+   "td": "none",
+   "r": [
+    518,
+    1893,
+    396,
+    20
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "p",
+   "t": "Come and learn some of the most loved recipes of The Shala Bali kitchen. We offer both traditional Indonesian cooking le",
+   "ff": "wfont_428110_59fa6a157d424fa89beff24e7571e5e9",
+   "fs": "17px",
+   "fw": "400",
+   "fst": "normal",
+   "lh": "24px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "center",
+   "c": "rgb(74, 74, 74)",
+   "td": "none",
+   "r": [
+    534,
+    1954,
+    364,
+    165
+   ]
+  },
+  {
+   "tag": "span",
+   "ctx": "a",
+   "t": "Book a place >",
+   "ff": "libre baskerville",
+   "fs": "15px",
+   "fw": "400",
+   "fst": "italic",
+   "lh": "21px",
+   "ls": "normal",
+   "tt": "none",
+   "ta": "start",
+   "c": "rgb(1, 177, 175)",
+   "td": "none",
+   "r": [
+    669,
+    2167,
+    99,
+    21
+   ],
+   "href": "mailto:manager4retreat@gmail.com?subject=Cooking Class Booking"
+  }
+ ],
+ "sections": [
+  {
+   "id": "SITE_HEADER",
+   "tag": "header",
+   "r": [
+    0,
+    0,
+    1440,
+    54
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "sticky"
+  },
+  {
+   "id": "comp-lhbbzrta",
+   "tag": "section",
+   "r": [
+    0,
+    54,
+    1440,
+    2189
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2xw",
+   "tag": "section",
+   "r": [
+    0,
+    -788,
+    1440,
+    578
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    -788,
+    1440,
+    578
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2y5",
+   "tag": "section",
+   "r": [
+    0,
+    -210,
+    1440,
+    119
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    -210,
+    1440,
+    119
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2ye",
+   "tag": "section",
+   "r": [
+    0,
+    -91,
+    1440,
+    764
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    -91,
+    1440,
+    764
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2z0",
+   "tag": "section",
+   "r": [
+    0,
+    683,
+    1440,
+    354
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    683,
+    1440,
+    354
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2zc",
+   "tag": "section",
+   "r": [
+    0,
+    1037,
+    1440,
+    93
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    1037,
+    1440,
+    93
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2zl",
+   "tag": "section",
+   "r": [
+    0,
+    1130,
+    1440,
+    606
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    1130,
+    1440,
+    606
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz2zy",
+   "tag": "section",
+   "r": [
+    230,
+    1305,
+    980,
+    365
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    230,
+    1305,
+    980,
+    365
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "comp-kqxmz312",
+   "tag": "section",
+   "r": [
+    0,
+    1736,
+    1440,
+    507
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "",
+   "tag": "div",
+   "r": [
+    0,
+    1736,
+    1440,
+    507
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  },
+  {
+   "id": "SITE_FOOTER",
+   "tag": "footer",
+   "r": [
+    0,
+    2243,
+    1440,
+    35
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "bgImg": "none",
+   "pos": "relative"
+  }
+ ],
+ "images": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_778fac54c048423d9ecc09bc967b3d8b.jpg",
+   "alt": "",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ],
+   "fit": "cover",
+   "op": "50% 0%",
+   "nat": [
+    576,
+    360
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_4e1888ca747742cb93712bb5d0c80849~mv2.png",
+   "alt": "",
+   "r": [
+    0,
+    -788,
+    1440,
+    578
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    1030,
+    413
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_97e9ade8bacb41188ff431a5aa972085~mv2.jpg",
+   "alt": "",
+   "r": [
+    747,
+    29,
+    463,
+    522
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    463,
+    522
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_f1415d1f60564d21bf24edff523030fc~mv2.jpg",
+   "alt": "",
+   "r": [
+    0,
+    137,
+    1440,
+    900
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    999,
+    624
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8d1736e33cc643d1a3c6e1a2b437b096~mv2.jpg",
+   "alt": "",
+   "r": [
+    230,
+    1305,
+    236,
+    365
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    236,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_e315c109962345c48088e963891e7344.jpg",
+   "alt": "",
+   "r": [
+    479,
+    1305,
+    235,
+    365
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    235,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_ec53e408d2c94f65bcb4ad9d031267ae.jpg",
+   "alt": "",
+   "r": [
+    727,
+    1305,
+    235,
+    365
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    235,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_7a86cc244eea484babe91603fe80b0e7~mv2.jpg",
+   "alt": "",
+   "r": [
+    975,
+    1305,
+    235,
+    365
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    235,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_b780f298831f46a7b217d8b46a444004~mv2.png",
+   "alt": "",
+   "r": [
+    0,
+    1736,
+    403,
+    507
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    347,
+    437
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_3d63b57558004addbe2aa2519e37e963~mv2.jpg",
+   "alt": "",
+   "r": [
+    1037,
+    1736,
+    403,
+    507
+   ],
+   "fit": "cover",
+   "op": "50% 50%",
+   "nat": [
+    403,
+    507
+   ]
+  }
+ ],
+ "bgImages": [
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_778fac54c048423d9ecc09bc967b3d8b.jpg",
+   "r": [
+    0,
+    0,
+    1440,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_4e1888ca747742cb93712bb5d0c80849~mv2.png",
+   "r": [
+    0,
+    -788,
+    1440,
+    578
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_f1415d1f60564d21bf24edff523030fc~mv2.jpg",
+   "r": [
+    0,
+    137,
+    1440,
+    900
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_8d1736e33cc643d1a3c6e1a2b437b096~mv2.jpg",
+   "r": [
+    230,
+    1305,
+    236,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_e315c109962345c48088e963891e7344.jpg",
+   "r": [
+    479,
+    1305,
+    235,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_ec53e408d2c94f65bcb4ad9d031267ae.jpg",
+   "r": [
+    727,
+    1305,
+    235,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_7a86cc244eea484babe91603fe80b0e7~mv2.jpg",
+   "r": [
+    975,
+    1305,
+    235,
+    365
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_b780f298831f46a7b217d8b46a444004~mv2.png",
+   "r": [
+    0,
+    1736,
+    403,
+    507
+   ]
+  },
+  {
+   "src": "https://static.wixstatic.com/media/4c89f1_3d63b57558004addbe2aa2519e37e963~mv2.jpg",
+   "r": [
+    1037,
+    1736,
+    403,
+    507
+   ]
+  }
+ ],
+ "videos": [],
+ "iframes": [],
+ "buttons": [
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Accommodation",
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    1316,
+    9,
+    24,
+    24
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "13.3333px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "wfont_663a12_47b0871b2ce34980baea472a6d71627a",
+   "fs": "18px",
+   "fw": "400",
+   "c": "rgb(0, 0, 238)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "",
+   "r": [
+    747,
+    29,
+    463,
+    522
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 0)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "Arial",
+   "fs": "10px",
+   "fw": "400",
+   "c": "rgb(0, 0, 0)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Organic Cafe Menu",
+   "href": null,
+   "r": [
+    600,
+    840,
+    234,
+    66
+   ],
+   "bg": "rgb(255, 97, 97)",
+   "border": "0px solid rgb(255, 255, 254)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "bree-w01-thin-oblique",
+   "fs": "15px",
+   "fw": "400",
+   "c": "rgb(255, 255, 254)",
+   "ls": "normal",
+   "tt": "none"
+  },
+  {
+   "t": "Book a place >",
+   "href": "mailto:manager4retreat@gmail.com?subject=Cooking Class Booking",
+   "r": [
+    652,
+    2165,
+    133,
+    26
+   ],
+   "bg": "rgba(0, 0, 0, 0)",
+   "border": "0px none rgb(0, 0, 238)",
+   "radius": "0px",
+   "pad": "0px",
+   "ff": "\"libre baskerville\"",
+   "fs": "15px",
+   "fw": "400",
+   "c": "rgb(1, 177, 175)",
+   "ls": "normal",
+   "tt": "none"
+  }
+ ],
+ "nav": [
+  {
+   "t": "HOME",
+   "href": null,
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "HOME",
+   "href": "https://www.theshalabali.com",
+   "r": [
+    367,
+    9,
+    77,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": null,
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Retreat Packages",
+   "href": "https://www.theshalabali.com/retreat-packages",
+   "r": [
+    444,
+    9,
+    151,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": null,
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Host a retreat",
+   "href": "https://www.theshalabali.com/copy-of-darshana-veda-spa",
+   "r": [
+    595,
+    9,
+    126,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": null,
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Panchakarma Retreats",
+   "href": "https://www.theshalabali.com/copy-of-retreat-packages",
+   "r": [
+    721,
+    9,
+    182,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": null,
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Darshana Veda Spa",
+   "href": "https://www.theshalabali.com/darshanavedaspa",
+   "r": [
+    903,
+    9,
+    163,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": null,
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Indian Cafe",
+   "href": "https://www.theshalabali.com/mumbaistationindiancafe",
+   "r": [
+    1066,
+    9,
+    110,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Accommodation",
+   "href": null,
+   "r": [
+    1176,
+    9,
+    140,
+    40
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Bungalows",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Deluxe Rooms",
+   "href": "https://www.theshalabali.com/copy-of-general",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": null,
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Master Suites",
+   "href": "https://www.theshalabali.com/copy-of-villa-rooms-1",
+   "r": [
+    0,
+    0,
+    0,
+    0
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": null,
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ]
+  },
+  {
+   "t": "Experiences",
+   "href": "https://www.theshalabali.com/copy-of-services",
+   "r": [
+    1316,
+    9,
+    114,
+    40
+   ]
+  }
+ ],
+ "motion": 57,
+ "themeVars": {
+  "color_0": "249,107,68",
+  "color_1": "255,255,255",
+  "color_2": "0,0,0",
+  "color_3": "237,28,36",
+  "color_4": "0,136,203",
+  "color_5": "255,203,5",
+  "color_6": "114,114,114",
+  "color_7": "176,176,176",
+  "color_8": "255,255,255",
+  "color_9": "114,114,114",
+  "color_10": "176,176,176",
+  "color_11": "255,255,255",
+  "color_12": "236,236,236",
+  "color_13": "144,144,144",
+  "color_14": "113,112,112",
+  "color_15": "74,74,74",
+  "color_16": "173,230,179",
+  "color_17": "137,204,144",
+  "color_18": "91,179,100",
+  "color_19": "3,153,18",
+  "color_20": "1,77,9",
+  "color_21": "178,233,213",
+  "color_22": "145,211,186",
+  "color_23": "100,188,156",
+  "color_24": "10,166,109",
+  "color_25": "5,83,54",
+  "color_26": "231,215,245",
+  "color_27": "207,178,235",
+  "color_28": "156,134,176",
+  "color_29": "104,89,117",
+  "color_30": "52,45,59",
+  "color_31": "162,191,224",
+  "color_32": "112,150,194",
+  "color_33": "26,90,163",
+  "color_34": "17,60,109",
+  "color_35": "9,30,54",
+  "color_36": "255,255,255",
+  "color_37": "74,74,74",
+  "color_38": "236,236,236",
+  "color_39": "144,144,144",
+  "color_40": "113,112,112",
+  "color_41": "91,179,100",
+  "color_42": "145,211,186",
+  "color_43": "1,77,9",
+  "color_44": "173,230,179",
+  "color_45": "113,112,112",
+  "color_46": "113,112,112",
+  "color_47": "113,112,112",
+  "color_48": "91,179,100",
+  "color_49": "91,179,100",
+  "color_50": "255,255,255",
+  "color_51": "255,255,255",
+  "color_52": "91,179,100",
+  "color_53": "91,179,100",
+  "color_54": "144,144,144",
+  "color_55": "144,144,144",
+  "color_56": "255,255,255",
+  "color_57": "255,255,255",
+  "color_58": "91,179,100",
+  "color_59": "91,179,100",
+  "color_60": "91,179,100",
+  "color_61": "91,179,100",
+  "color_62": "255,255,255",
+  "color_63": "255,255,255",
+  "color_64": "144,144,144",
+  "color_65": "144,144,144",
+  "font_0": "normal normal normal 50px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_1": "normal normal normal 16px/1.4em raleway,sans-serif",
+  "font_2": "normal normal normal 40px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_3": "normal normal normal 35px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_4": "normal normal normal 30px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_5": "normal normal normal 25px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_6": "normal normal normal 28px/1.4em wfont_4c89f1_90048580e1ed4953ad6b1d32ad0be0d6,wf_90048580e1ed4953ad6b1d32a,orig_italianno_regular",
+  "font_7": "normal normal normal 22px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_8": "normal normal normal 16px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_9": "normal normal normal 13px/1.4em wfont_428110_59fa6a157d424fa89beff24e7571e5e9,wf_59fa6a157d424fa89beff24e7,orig_bellota_regular",
+  "font_10": "normal normal normal 10px/1.4em 'open sans',sans-serif"
+ },
+ "bodyBg": "rgba(0, 0, 0, 0)",
+ "scrolledHeader": {
+  "top": 0,
+  "height": 54,
+  "position": "sticky",
+  "bg": "rgba(0, 0, 0, 0)",
+  "scrollY": 1378
+ },
+ "url": "https://www.theshalabali.com/copy-of-organic-vegetarian-cafe",
+ "width": 1440,
+ "consoleErrors": []
+}

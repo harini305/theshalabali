@@ -1,0 +1,78 @@
+.video {
+  position: relative;
+  width: 100%;
+  aspect-ratio: var(--r-portrait);
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--limestone-deep);
+}
+
+.quote {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-top: 8px;
+}
+
+.mark {
+  display: block;
+  height: 0.5em;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 6rem;
+  line-height: 0.9;
+  color: var(--terracotta);
+}
+
+.quote blockquote p {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 48;
+  font-size: clamp(1.2rem, 1.05rem + 0.6vw, 1.6rem);
+  line-height: 1.5;
+  letter-spacing: -0.005em;
+}
+
+.quote figcaption {
+  padding-top: 18px;
+  border-top: 1px solid var(--line-strong);
+  font-family: var(--font-ui);
+  font-weight: 500;
+  font-size: var(--fs-small);
+  letter-spacing: 0.04em;
+  color: var(--ink);
+}
+
+.brochure {
+  padding-block: var(--section-y);
+}
+
+.brochureGrid {
+  display: grid;
+  gap: clamp(40px, 6vw, 72px);
+}
+
+.brochureText {
+  order: -1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+@media (min-width: 1024px) {
+  .brochureGrid {
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    column-gap: 24px;
+    align-items: center;
+  }
+  .brochureMedia {
+    grid-column: 1 / 8;
+  }
+  .brochureText {
+    order: 0;
+    grid-column: 8 / 13;
+    padding-left: clamp(0px, 2vw, 32px);
+  }
+}

@@ -1,0 +1,173 @@
+/* Full-screen viewer on a deep forest backdrop. Controls are 52px ivory-outlined circles:
+   close top-right, prev/next at the side edges on large screens and along the bottom on small ones. */
+.dialog {
+  width: 100vw;
+  max-width: 100vw;
+  height: 100dvh;
+  max-height: 100dvh;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: rgba(27, 48, 39, 0.97);
+  color: var(--on-dark);
+  overflow: hidden;
+}
+
+.dialog::backdrop {
+  background: rgba(27, 48, 39, 0.7);
+}
+
+.dialog[open] {
+  display: grid;
+  place-items: center;
+  animation: lb-in 0.45s var(--ease-out) both;
+}
+
+@keyframes lb-in {
+  from {
+    opacity: 0;
+  }
+}
+
+.figure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 18px;
+  max-width: min(92vw, 1600px);
+  padding-bottom: 72px;
+}
+
+.imgWrap {
+  animation: img-in 0.7s var(--ease-out) both;
+}
+
+@keyframes img-in {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+}
+
+.img {
+  width: auto;
+  height: auto;
+  max-width: min(92vw, 1600px);
+  max-height: calc(100dvh - 180px);
+  object-fit: contain;
+  border-radius: var(--radius);
+}
+
+.caption {
+  max-width: 60ch;
+  font-family: var(--font-ui);
+  font-size: 0.875rem;
+  letter-spacing: 0.08em;
+  text-align: center;
+  font-variant-numeric: tabular-nums;
+  color: var(--on-dark-muted);
+}
+
+.btn {
+  position: fixed;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  padding: 0;
+  border: 1px solid rgba(243, 239, 229, 0.4);
+  border-radius: 50%;
+  background: rgba(27, 48, 39, 0.55);
+  color: var(--on-dark);
+  cursor: pointer;
+  transition: background-color var(--dur) var(--ease-out), color var(--dur) var(--ease-out), border-color var(--dur) var(--ease-out);
+}
+
+.btn svg {
+  transition: transform var(--dur) var(--ease-out);
+}
+
+.btn:hover,
+.btn:focus-visible {
+  border-color: var(--ivory);
+  background: var(--ivory);
+  color: var(--forest);
+}
+
+.btn:focus-visible {
+  outline: 2px solid var(--terracotta-soft);
+  outline-offset: 3px;
+}
+
+.close {
+  top: 20px;
+  right: 20px;
+}
+
+.close:hover svg,
+.close:focus-visible svg {
+  transform: rotate(90deg);
+}
+
+.prev,
+.next {
+  bottom: 22px;
+}
+
+.prev {
+  left: calc(50% - 62px);
+}
+
+.next {
+  left: calc(50% + 10px);
+}
+
+.prev:hover svg,
+.prev:focus-visible svg {
+  transform: translateX(-3px);
+}
+
+.next:hover svg,
+.next:focus-visible svg {
+  transform: translateX(3px);
+}
+
+@media (min-width: 900px) {
+  .figure {
+    padding-bottom: 0;
+  }
+
+  .img {
+    max-width: calc(100vw - 220px);
+    max-height: calc(100dvh - 120px);
+  }
+
+  .close {
+    top: 28px;
+    right: 28px;
+  }
+
+  .prev,
+  .next {
+    bottom: auto;
+    top: 50%;
+    translate: 0 -50%;
+  }
+
+  .prev {
+    left: 28px;
+  }
+
+  .next {
+    left: auto;
+    right: 28px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .dialog[open],
+  .imgWrap {
+    animation: none;
+  }
+}

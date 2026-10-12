@@ -1,0 +1,21 @@
+.float {
+  position: fixed;
+  right: max(18px, env(safe-area-inset-right));
+  bottom: max(18px, env(safe-area-inset-bottom));
+  z-index: var(--z-float);
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: var(--deep);
+  color: var(--on-dark);
+  box-shadow: 0 14px 34px -12px rgba(30, 25, 21, 0.6);
+  transition: transform 0.5s var(--ease-out), background-color 0.4s ease;
+}
+
+.float:hover {
+  transform: translateY(-3px) scale(1.05);
+  background: var(--accent-text);
+}
+

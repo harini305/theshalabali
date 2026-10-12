@@ -1,0 +1,68 @@
+/* 404 page index: a two-column list of Fraunces links between hairlines, with an arrow that nudges. */
+.nav {
+  padding-bottom: var(--section-y);
+}
+
+.nav ul {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--line-strong);
+}
+
+.nav li {
+  border-bottom: 1px solid var(--line);
+}
+
+.nav a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  min-height: 72px;
+  padding: 18px 0;
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-variation-settings: 'opsz' 96, 'SOFT' 50;
+  font-size: clamp(1.4rem, 1.15rem + 1vw, 2.2rem);
+  line-height: 1.15;
+  letter-spacing: -0.015em;
+  color: var(--ink);
+  text-decoration: none;
+  transition: color var(--dur-fast);
+}
+
+.nav a span {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border: 1px solid var(--line-strong);
+  border-radius: 50%;
+  font-family: var(--font-ui);
+  font-size: 1rem;
+  color: var(--ink);
+  transition: transform var(--dur) var(--ease-out), background-color var(--dur) var(--ease-out), border-color var(--dur) var(--ease-out), color var(--dur) var(--ease-out);
+}
+
+.nav a:hover,
+.nav a:focus-visible {
+  color: var(--forest);
+}
+
+.nav a:hover span,
+.nav a:focus-visible span {
+  border-color: var(--forest);
+  background: var(--forest);
+  color: var(--on-dark);
+  transform: translateX(4px);
+}
+
+@media (min-width: 900px) {
+  .nav ul {
+    grid-template-columns: 1fr 1fr;
+    column-gap: clamp(40px, 5vw, 96px);
+  }
+}

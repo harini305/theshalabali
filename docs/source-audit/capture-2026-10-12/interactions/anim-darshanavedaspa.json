@@ -1,0 +1,121 @@
+{
+ "r0": {
+  "c": {
+   "motion-fadeIn": 3
+  },
+  "ex": [
+   {
+    "id": "WRchTxt12-155k",
+    "anim": "motion-fadeIn",
+    "dur": "1.8s",
+    "delay": "0.001s",
+    "ease": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+    "fill": "backwards",
+    "txt": "Yoga Retreat & Ayurvedic Spa",
+    "top": 22
+   },
+   {
+    "id": "DrpDwnMn0-if",
+    "anim": "motion-fadeIn",
+    "dur": "1.8s",
+    "delay": "0.001s",
+    "ease": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+    "fill": "backwards",
+    "txt": "HOME\n\nRetreat Packages\n\nHost a retreat\n\n",
+    "top": 9
+   },
+   {
+    "id": "comp-kyvjeopv",
+    "anim": "motion-fadeIn",
+    "dur": "1.5s",
+    "delay": "0.001s",
+    "ease": "cubic-bezier(0.445, 0.05, 0.55, 0.95)",
+    "fill": "backwards",
+    "txt": "Spa Menu",
+    "top": 1633
+   }
+  ]
+ },
+ "later": [
+  {
+   "y": 300,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 700,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 1100,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 1500,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 1900,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 2300,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 2700,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 3100,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  },
+  {
+   "y": 3500,
+   "c": {
+    "motion-fadeIn": 3
+   },
+   "ex": []
+  }
+ ],
+ "trans": [
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all",
+  "all"
+ ]
+}
