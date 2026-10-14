@@ -31,6 +31,9 @@ const nextConfig = {
   reactStrictMode: true,
   agentRules: false,
   images: {
+    // Image Optimization is switched off (Vercel Hobby image-transformation quota): next/image serves
+    // the original files as-is. The settings below stay in place for if it is switched back on.
+    unoptimized: true,
     formats: ['image/avif', 'image/webp'],
     deviceSizes: [390, 640, 768, 1024, 1280, 1440, 1920],
     qualities: [75, 85],
